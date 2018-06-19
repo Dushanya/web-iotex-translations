@@ -7,8 +7,8 @@ auth.login: 로그인
 auth.login_with_mobile: 전화번호로 로그인
 auth.login_with_telegram: 텔레그램으로 로그인
 auth.next: 다음
-auth.phone_number: 휴대폰 번호
-auth.tab.mobile: Phone(CN)
+auth.phone_number: 전화번호
+auth.tab.mobile: 전화번호(중국용)
 auth.tab.telegram: 텔레그램
 auth.verification_code: 인증번호
 captcha.incorrect_captcha: 그림 안의 문자가 잘못되었어요.
