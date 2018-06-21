@@ -68,7 +68,7 @@ hall-of-fame.thank-you.message: >-
   일환으로, 자선 프로그램을 선정해서 커뮤니티 보상 프로그램을 계속해 나갈 예정입니다.
 
 
-  IoTeX팀은 커뮤니티와 함께 성장해가며, 한 블럭 한 블럭씩 세상을 연결시켜 나가고자 합니다. 상당히 야심 찬 목표 입니다. 하지만,
+  IoTeX팀은 커뮤니티와 함께 성장해가며, 한 블록 한 블록씩 세상을 연결시켜 나가고자 합니다. 상당히 야심 찬 목표 입니다. 하지만,
   훌륭한 팀원들과 지지해 주시는 커뮤니티를 기반으로 이루어 내고자 합니다. 커뮤니티와 함께 블록체인 생태계를 발전을 최전방에서 이끌어 가고자
   합니다. IoTeX팀은 우리의 초심과 비전이 커뮤니티에 잘 전해져, 관심과 지원으로 함께 목표에 도달 할 수 있도록 노력하겠습니다.
 hall-of-fame.title: IoTeX 자선
@@ -181,11 +181,10 @@ home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
 home.site.description: >-
-  A Decentralized Network for Internet of Things (IoT), Powered by a
-  Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
-  World, Block by Block.
-home.slogan: 한 블럭 한 블럭씩 세상을 연결합니다.
-home.title: IoTeX
+  자율적 확장성과 연결 가능성을 가진 개인정보 보호 중심의 블록체인을 기반으로 한 
+  IoT 용 분산형 네트워크. 한 블록 한 블록씩 세상을 연결합니다. 
+home.slogan: 한 블록 한 블록씩 세상을 연결합니다.
+home.title: IoTeX 공식 웹싸이트
 home.vedaad.desc.keep: >-
   Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
   on the cryptoeconomics team at Blockchain @ Berkeley
@@ -316,3 +315,4 @@ topbar.video: VIDEO
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
+
