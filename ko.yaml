@@ -273,7 +273,7 @@ profile.redeem.success: >-
   전환은 2주 안에 진행 완료 됩니다.
 profile.redeem.time: 시간
 profile.refund.success: '%d points have been refunded to your account.'
-profile.send.amount: Amount
+profile.send.amount: 금액
 profile.send.button: 보내기
 profile.send.code: 코드
 profile.send.end: 종료 시간
@@ -293,25 +293,25 @@ stonevan.twitter: >-
 subscribe.btn: 구독
 subscribe.desc: 최근 진행사항과 이벤트 안내
 subscribe.title: 새 소식을 놓치지 마세요.
-testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title: Testnet Alpha Has Been Released On
-testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
+testnet-alpha.home-title: 테스트넷 알파(스트라이브)가 곧 공개될 예정입니다.
+testnet-alpha.released-event-title: 테스트넷 알파가 공개되었습니다!
+testnet-alpha.released-title: 테스트넷 알파가 공개되었습니다.
+testnet-preview.home-title: 테스트넷 미리보기(스톤밴)가 공개될 예정입니다.
 testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
 testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다.
-topbar.about: ABOUT
-topbar.account: 계정
+topbar.about: 정보
+topbar.account: 로그인
 topbar.announcements: 새소식
 topbar.blog: 블로그
 topbar.careers: 채용 안내내
 topbar.charity: 자선
 topbar.explorer: EXPLORER
-topbar.faq: FAQ
+topbar.faq: 자주 묻는 질문
 topbar.logout: 로그아웃
-topbar.press: PRESS RELEASE
-topbar.research: RESEARCH
-topbar.resource: RESOURCE
-topbar.video: VIDEO
+topbar.press: 보도자료
+topbar.research: 연구
+topbar.resource: 업데이트
+topbar.video: 비디오
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
