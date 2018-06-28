@@ -366,3 +366,6 @@ topbar.video: VIDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+testnet.detail: DETAIL
+testnet.code: CODE
+testnet.demo: DEMO
