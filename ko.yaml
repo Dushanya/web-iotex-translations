@@ -333,10 +333,8 @@ topbar.video: VIDEO
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
-activity.rolldpos.earned: You have earned
-activity.rolldpos.points: points!
-activity.rolldpos.chance: You have
-activity.rolldpos.roll: chance(s) to roll the dice.
+activity.rolldpos.earned: You have earned %d points!
+activity.rolldpos.chance: You have %d chance(s) to roll the dice.
 activity.rolldpos.success.title: CONGRATULATIONS!
 activity.rolldpos.refer.title: Roll the dice again by referring a friend.
 activity.rolldpos.refer.statement:
