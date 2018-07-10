@@ -375,3 +375,11 @@ topbar.video: ВИДЕО
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: ВПЕРЕД
 whitepaper.button.previous: НАЗАД
+activity.rolldpos.earned: You have earned
+activity.rolldpos.points: points!
+activity.rolldpos.chance: You have
+activity.rolldpos.roll: chance(s) to roll the dice.
+activity.rolldpos.success.title: CONGRATULATIONS!
+activity.rolldpos.refer.title: Roll the dice again by referring a friend.
+activity.rolldpos.refer.statement:
+activity.rolldpos.fail.title: Better Luck Next Time

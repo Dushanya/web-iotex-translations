@@ -296,3 +296,12 @@ topbar.video: 视频
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
+activity.rolldpos.earned: 您获得了
+activity.rolldpos.points: 分！
+activity.rolldpos.chance: 您还有
+activity.rolldpos.roll: 次机会
+activity.rolldpos.success.title: 恭喜！
+activity.rolldpos.refer.title: 分享链接给好友可增加一次机会
+activity.rolldpos.refer.statement:
+activity.rolldpos.fail.title: 下次加油
+
