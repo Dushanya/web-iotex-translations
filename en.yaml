@@ -370,9 +370,9 @@ whitepaper.button.previous: PREVIOUS
 activity.rolldpos.earned: You have earned <strong>%d</strong> points!
 activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dice.
 activity.rolldpos.success.title: CONGRATULATIONS!
-activity.rolldpos.refer.title: Roll the dice again by referring a friend.
-activity.rolldpos.refer.statement:
-activity.rolldpos.fail.title: Better Luck Next Time
+activity.rolldpos.refer.title: Refer a friend to get another chance.
+activity.rolldpos.refer.statement: null
+activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
 activity.rolldpos.cover-title.keep: rolldpos.cover-title.keep
 activity.rolldpos.title: How Much Do You Know About
 activity.rolldpos.subtitle: Roll-DPoS
