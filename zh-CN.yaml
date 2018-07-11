@@ -156,7 +156,6 @@ home.section.advisors: IoTeX.顾问
 home.section.arch: IoTeX.构架
 home.section.innovations: IoTeX.创新
 home.section.investors: IoTeX.投资人
-home.section.partners: IoTeX.战略合作伙伴
 home.section.roadmap: IoTeX.技术路线
 home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
@@ -272,11 +271,12 @@ stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了
 subscribe.btn: 订阅
 subscribe.desc: 获取最新项目进展和活动消息
 subscribe.title: 与我们保持联系
-testnet-alpha.home-title.keep: 我的测试网 Alpha (Strive) 将发布于
-testnet-alpha.released-title.keep: 我们的测试网 Alpha (Strive) 已经发布！
-testnet-preview.home-title.keep: 测试网预览 (StoneVan) 将发布于
+testnet-alpha.home-title.keep: 测试网Alpha (Strive) 即将发布
+testnet-alpha.released-event-title.keep: 我们的测试网Alpha已经发布！
+testnet-alpha.released-title.keep: 我们的测试网Alpha已经发布
+testnet-preview.home-title.keep: 测试网预览 (StoneVan) 即将发布
 testnet-preview.released-event-title.keep: 我们的测试网预览已经发布！
-testnet-preview.released-title.keep: Testnet Preview Has Been Released On
+testnet-preview.released-title.keep: 我们的测试网预览已经发布
 testnet.code: 代码
 testnet.demo: 演示
 testnet.detail: 详情
@@ -286,7 +286,7 @@ topbar.announcements: 公告
 topbar.blog: 博客
 topbar.careers: 职位
 topbar.charity: 慈善
-topbar.explorer: EXPLORER
+topbar.explorer: 浏览器
 topbar.faq: FAQ
 topbar.logout: 退出
 topbar.press: 新闻

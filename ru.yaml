@@ -224,7 +224,6 @@ home.section.advisors: IoTeX.Адвайзеры
 home.section.arch: IoTeX.Архитектура
 home.section.innovations: IoTeX.Инновации
 home.section.investors: IoTeX.Инвесторы
-home.section.partners: IoTeX.Стратегические Партнеры
 home.section.roadmap: IoTeX.Дорожная Карта
 home.section.team: IoTeX.Команда
 home.section.teamfrom: IoTeX.Опыт работы команды
@@ -352,10 +351,11 @@ subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
 subscribe.title: Подпишитесь на нашу рассылку
 testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-event-title.keep: Our Testnet Alpha Has Been Released!
 testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
-testnet-preview.home-title.keep: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title.keep: Our Testnet Preview Has Been Released!
-testnet-preview.released-title.keep: Testnet Preview Has Been Released On
+testnet-preview.home-title.keep: Привью Тест-нета (StoneVan) состоялся
+testnet-preview.released-event-title.keep: Наш Тест-нет Привью уже вышел!
+testnet-preview.released-title.keep: Привью Тест-нета состоялся
 testnet.code: CODE
 testnet.demo: DEMO
 testnet.detail: DETAIL
