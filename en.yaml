@@ -372,8 +372,8 @@ activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dic
 activity.rolldpos.success.title: CONGRATULATIONS!
 activity.rolldpos.refer.title: Refer a friend to get another chance.
 activity.rolldpos.refer.statement: >-
-  You will get a notification from our Bounty Bot in Telegram (@IoTeXBountyBot) 
-  when your friends finish step 1-5 and roll the dice. Every participant has up 
+  You will get a notification from our Bounty Bot in Telegram (@IoTeXBountyBot)
+  when your friends finish step 1-5 and roll the dice. Every participant has up
   to 10 chances to roll the dice during the campaign period.
 activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
 activity.rolldpos.general.title: Roll-DPos Event
@@ -388,6 +388,7 @@ activity.rolldpos.blog: Blog Post
 activity.rolldpos.ready: I Am Ready!
 activity.rolldpos.submit.enabled: Submit!
 activity.rolldpos.submit.disabled: Please select one answer!
+activity.rolldpos.submit.verify: Verifying!
 activity.rolldpos.rolldpos: Roll-DPoS
 auth.invalid_phone_number: auth.invalid_phone_number
 common.dice.start: START
