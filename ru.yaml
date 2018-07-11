@@ -386,3 +386,4 @@ activity.rolldpos.refer.statement: >-
 activity.rolldpos.rolldpos: Roll-DPoS
 activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
 activity.rolldpos.general.title: Roll-DPos Event
+common.dice.start: START

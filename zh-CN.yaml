@@ -307,3 +307,4 @@ activity.rolldpos.refer.statement: >-
 activity.rolldpos.rolldpos: Roll-DPoS
 activity.rolldpos.fail.title: 回答错误，下次加油
 activity.rolldpos.general.title: Roll-DPos Event
+common.dice.start: 开始

@@ -390,3 +390,4 @@ activity.rolldpos.submit.enabled: Submit!
 activity.rolldpos.submit.disabled: Please select one answer!
 activity.rolldpos.rolldpos: Roll-DPoS
 auth.invalid_phone_number: auth.invalid_phone_number
+common.dice.start: START
