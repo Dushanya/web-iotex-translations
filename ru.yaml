@@ -380,4 +380,5 @@ activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dic
 activity.rolldpos.success.title: CONGRATULATIONS!
 activity.rolldpos.refer.title: Refer a friend to get another chance.
 activity.rolldpos.refer.statement:
+activity.rolldpos.rolldpos: Roll-DPoS
 activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time

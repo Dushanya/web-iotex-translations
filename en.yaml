@@ -384,4 +384,5 @@ activity.rolldpos.blog: Blog Post
 activity.rolldpos.ready: I Am Ready!
 activity.rolldpos.submit.enabled: Submit!
 activity.rolldpos.submit.disabled: Please select one answer!
+activity.rolldpos.rolldpos: Roll-DPoS
 auth.invalid_phone_number: auth.invalid_phone_number
