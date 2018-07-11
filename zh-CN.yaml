@@ -160,7 +160,7 @@ home.section.roadmap: IoTeX.技术路线
 home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
 home.section.useceses: IoTeX.案例
-home.site.description: 面向物联网(IoT)的可自动扩展和以隐私为中心的区块链基础架构。
+home.site.description: 面向物联网(IoT)的可自动扩展和以隐私为中心的区块链基础架构.用区块链接世界.
 home.slogan: 用区块链接世界
 home.title: IoTeX官网
 home.vedaad.desc.keep: >-
@@ -296,3 +296,14 @@ topbar.video: 视频
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
+activity.rolldpos.earned: 您获得了<strong>%d</strong>分！
+activity.rolldpos.chance: 您还有<strong>%d</strong>次机会
+activity.rolldpos.success.title: 恭喜！
+activity.rolldpos.refer.title: 分享链接给好友赢取一次机会
+activity.rolldpos.refer.statement: >-
+  You will get a notification from our Bounty Bot in Telegram (@IoTeXBountyBot) 
+  when your friends finish step 1-5. Every participant has 3 chances to roll 
+  the dice per day during the campaign period.
+activity.rolldpos.rolldpos: Roll-DPoS
+activity.rolldpos.fail.title: 回答错误，下次加油
+

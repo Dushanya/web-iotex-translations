@@ -367,3 +367,25 @@ topbar.video: VIDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+activity.rolldpos.earned: You have earned <strong>%d</strong> points!
+activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dice.
+activity.rolldpos.success.title: CONGRATULATIONS!
+activity.rolldpos.refer.title: Refer a friend to get another chance.
+activity.rolldpos.refer.statement: >-
+  You will get a notification from our Bounty Bot in Telegram (@IoTeXBountyBot) 
+  when your friends finish step 1-5. Every participant has 3 chances to roll 
+  the dice per day during the campaign period.
+activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
+activity.rolldpos.cover-title.keep: rolldpos.cover-title.keep
+activity.rolldpos.title: How Much Do You Know About
+activity.rolldpos.subtitle: Roll-DPoS
+activity.rolldpos.video: >-
+  Watch the following video about IoTeX Testnet alpha and answer a question to
+  roll the dice!
+activity.rolldpos.yellow: Yellow Paper
+activity.rolldpos.blog: Blog Post
+activity.rolldpos.ready: I Am Ready!
+activity.rolldpos.submit.enabled: Submit!
+activity.rolldpos.submit.disabled: Please select one answer!
+activity.rolldpos.rolldpos: Roll-DPoS
+auth.invalid_phone_number: auth.invalid_phone_number
