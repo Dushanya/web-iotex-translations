@@ -156,7 +156,6 @@ home.section.advisors: IoTeX.顾问
 home.section.arch: IoTeX.构架
 home.section.innovations: IoTeX.创新
 home.section.investors: IoTeX.投资人
-home.section.partners: IoTeX.战略合作伙伴
 home.section.roadmap: IoTeX.技术路线
 home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
@@ -228,7 +227,6 @@ profile.message.memo: 备注
 profile.message.no_eth: 请先设置 ETH 地址再进行兑换。
 profile.message.not_a_number: 请输入一个合法的数字。
 profile.message.not_enough_points: 您没有足够的积分。
-profile.message.ok: 好的
 profile.message.processing: 处理中
 profile.message.refund: 返还
 profile.message.result: 结果
@@ -273,12 +271,15 @@ stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了
 subscribe.btn: 订阅
 subscribe.desc: 获取最新项目进展和活动消息
 subscribe.title: 与我们保持联系
-testnet-alpha.home-title: 测试网Alpha (Strive) 即将发布
-testnet-alpha.released-event-title: 我们的测试网Alpha已经发布！
-testnet-alpha.released-title: 我们的测试网Alpha已经发布
-testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
-testnet-preview.released-event-title: 我们的测试网预览已经发布！
-testnet-preview.released-title: 我们的测试网预览已经发布
+testnet-alpha.home-title.keep: 测试网Alpha (Strive) 即将发布
+testnet-alpha.released-event-title.keep: 我们的测试网Alpha已经发布！
+testnet-alpha.released-title.keep: 我们的测试网Alpha已经发布
+testnet-preview.home-title.keep: 测试网预览 (StoneVan) 即将发布
+testnet-preview.released-event-title.keep: 我们的测试网预览已经发布！
+testnet-preview.released-title.keep: 我们的测试网预览已经发布
+testnet.code: 代码
+testnet.demo: 演示
+testnet.detail: 详情
 topbar.about: 关于
 topbar.account: 账户
 topbar.announcements: 公告
@@ -295,6 +296,3 @@ topbar.video: 视频
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
-testnet.detail: 详情
-testnet.code: 代码
-testnet.demo: 演示

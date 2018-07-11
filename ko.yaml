@@ -188,7 +188,6 @@ home.section.advisors: IoTeX.Advisors
 home.section.arch: IoTeX.Architecture
 home.section.innovations: IoTeX.Innovations
 home.section.investors: IoTeX.Investors
-home.section.partners: IoTeX.StrategicPartners
 home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
@@ -267,7 +266,6 @@ profile.message.memo: Memo
 profile.message.no_eth: You need an ETH address to redeem.
 profile.message.not_a_number: 유효한 숫자를 입력하세요.
 profile.message.not_enough_points: 포인트가 부족합니다.
-profile.message.ok: OK
 profile.message.processing: 처리중
 profile.message.refund: REFUND
 profile.message.result: Result
@@ -313,12 +311,15 @@ stonevan.twitter: >-
 subscribe.btn: 구독
 subscribe.desc: 최근 진행사항과 이벤트 안내
 subscribe.title: 새 소식을 놓치지 마세요.
-testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title: Testnet Alpha Has Been Released On
-testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
-testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
-testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다.
+testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-event-title.keep: Our Testnet Alpha Has Been Released!
+testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
+testnet-preview.home-title.keep: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
+testnet-preview.released-event-title.keep: 테스트넷 미리보기가 공개 되었습니다!
+testnet-preview.released-title.keep: 테스트넷 미리보기가 공개 되었습니다.
+testnet.code: CODE
+testnet.demo: DEMO
+testnet.detail: DETAIL
 topbar.about: ABOUT
 topbar.account: 계정
 topbar.announcements: 새소식
