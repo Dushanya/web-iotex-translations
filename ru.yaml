@@ -385,3 +385,4 @@ activity.rolldpos.refer.statement: >-
   the dice per day during the campaign period.
 activity.rolldpos.rolldpos: Roll-DPoS
 activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
+activity.rolldpos.general.title: Roll-DPos Event
