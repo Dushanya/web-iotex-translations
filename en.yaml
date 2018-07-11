@@ -216,7 +216,6 @@ home.section.advisors: IoTeX.Advisors
 home.section.arch: IoTeX.Architecture
 home.section.innovations: IoTeX.Innovations
 home.section.investors: IoTeX.Investors
-home.section.partners: IoTeX.StrategicPartners
 home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
@@ -344,6 +343,7 @@ subscribe.btn: SUBSCRIBE
 subscribe.desc: With our latest progress and events.
 subscribe.title: STAY UPDATED
 testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-event-title.keep: Our Testnet Alpha Has Been Released!
 testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
 testnet-preview.home-title.keep: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title.keep: Our Testnet Preview Has Been Released!
