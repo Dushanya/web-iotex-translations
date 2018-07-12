@@ -301,10 +301,20 @@ activity.rolldpos.chance: 您还有<strong>%d</strong>次机会
 activity.rolldpos.success.title: 恭喜！
 activity.rolldpos.refer.title: 分享链接给好友赢取一次机会
 activity.rolldpos.refer.statement: >-
-  You will get a notification from our Bounty Bot in Telegram (@IoTeXBountyBot) 
-  when your friends finish step 1-5 and roll the dice. Every participant has up 
-  to 10 chances to roll the dice during the campaign period.
+  您推荐的好友完成答题后，您将获得一次投色子机会。活动期间您最多有十次投色子的机会。
 activity.rolldpos.rolldpos: Roll-DPoS
 activity.rolldpos.fail.title: 回答错误，下次加油
-activity.rolldpos.general.title: Roll-DPos Event
+activity.rolldpos.general.title: Roll-DPos活动
 common.dice.start: 开始
+activity.rolldpos.title: 您知道吗？
+activity.rolldpos.subtitle: Roll-DPoS
+activity.rolldpos.video: >-
+  看视频答题，赢取抽奖机会
+activity.rolldpos.yellow: 黄皮书
+activity.rolldpos.blog: 博客
+activity.rolldpos.ready: 准备好了
+activity.rolldpos.submit.enabled: 提交
+activity.rolldpos.submit.disabled: 请选择一个答案
+activity.rolldpos.submit.verify: 确认中
+auth.invalid_phone_number: 无效号码
+activity.rolldpos.start_the_ball_rolling.keep: 开始
