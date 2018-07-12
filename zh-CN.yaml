@@ -318,3 +318,8 @@ activity.rolldpos.submit.disabled: 请选择一个答案
 activity.rolldpos.submit.verify: 确认中
 auth.invalid_phone_number: 无效号码
 activity.rolldpos.start_the_ball_rolling.keep: 开始
+activity.rolldpos.information: >-
+  Please strictly follow the <a href="https://goo.gl/hZpc6T" target="_blank">Instruction</a> to be an eligible participant.
+  Otherwise, you will not be able to receive any points.
+  Any signs of cheating detected will result in elimination of all points gained. Happy rolling!
+activity.rolldpos.information-note: '*Note: Every participant has up to 10 chances to roll the dice during this campaign!'
