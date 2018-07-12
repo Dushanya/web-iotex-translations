@@ -309,7 +309,7 @@ common.dice.start: 开始
 activity.rolldpos.title: 您知道吗？
 activity.rolldpos.subtitle: Roll-DPoS
 activity.rolldpos.video: >-
-  看视频答题，赢取抽奖机会
+  看视频答题，赢取抽奖机会，活动开始按钮会在观看视频几分钟后出现
 activity.rolldpos.yellow: 黄皮书
 activity.rolldpos.blog: 博客
 activity.rolldpos.ready: 准备好了
