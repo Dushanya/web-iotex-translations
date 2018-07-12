@@ -372,8 +372,9 @@ activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dic
 activity.rolldpos.success.title: CONGRATULATIONS!
 activity.rolldpos.refer.title: Refer a friend to get another chance.
 activity.rolldpos.refer.statement: >-
-  You will get one more chance when your friends finish step 1-5 and roll
-  the dice. Every participant has up to 10 chances to roll the dice during the campaign period.
+  You will get one more chance when your friends finish step 1-5 and roll the
+  dice. Every participant has up to 10 chances to roll the dice during the
+  campaign period.
 activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
 activity.rolldpos.general.title: Roll-DPos Event
 activity.rolldpos.title: How Much Do You Know About
@@ -392,7 +393,11 @@ auth.invalid_phone_number: auth.invalid_phone_number
 common.dice.start: START
 activity.rolldpos.start_the_ball_rolling.keep: START
 activity.rolldpos.information: >-
-  Please strictly follow the <a href="https://goo.gl/hZpc6T" target="_blank">Instruction</a> to be an eligible participant.
-  Otherwise, you will not be able to receive any points.
-  Any signs of cheating detected will result in elimination of all points gained. Happy rolling!
-activity.rolldpos.information-note: '*Note: Every participant has up to 10 chances to roll the dice during this campaign!'
+  Please strictly follow the <a href="https://goo.gl/hZpc6T"
+  target="_blank">Instruction</a> to be an eligible participant. Otherwise, you
+  will not be able to receive any points. Any signs of cheating detected will
+  result in elimination of all points gained. Happy rolling!
+activity.rolldpos.information-note: >-
+  *Note: Every participant has up to 10 chances to roll the dice during this
+  campaign!
+activity.rolldpos.title.keep: Roll-DPoS Dice Campaign
