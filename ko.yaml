@@ -162,6 +162,13 @@ home.nick.desc.keep: >-
 home.nick.linkedin.keep: null
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Full Stack Intern
+home.jennifer.desc.keep: >-
+  Economics Major with Digital Humanities Minor at UCLA. Publicity Director 
+  for Design for America with marketing and project management experience 
+  for 5+ organizations. Human-centered design and blockchain enthusiast.
+home.jennifer.linkedin.keep: null
+home.jennifer.name.keep: Jennifer Vuong
+home.jennifer.title.keep: Digital Marketing Intern
 home.paddy.desc.keep: >-
   Senior Software Engineer at Microsoft, specialized in distributed systems.
   Active contributor to open source projects. M.S. Computer Science at Yale
@@ -362,3 +369,5 @@ activity.rolldpos.information: >-
   Otherwise, you will not be able to receive any points.
   Any signs of cheating detected will result in elimination of all points gained. Happy rolling!
 activity.rolldpos.information-note: '*Note: Every participant has up to 10 chances to roll the dice during this campaign!'
+topbar.dksap-iot: DKSAP-IoT
+topbar.roll_dpos: Roll-DPoS
