@@ -1,13 +1,49 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
+activity.rolldpos.blog: 博客
+activity.rolldpos.chance: 您还有<strong>%d</strong>次机会
+activity.rolldpos.earned: 您获得了<strong>%d</strong>分！
+activity.rolldpos.fail.title: 回答错误，下次加油
+activity.rolldpos.general.title: Roll-DPos活动
+activity.rolldpos.information: >-
+  Please strictly follow the <a href="https://goo.gl/hZpc6T"
+  target="_blank">Instruction</a> to be an eligible participant. Otherwise, you
+  will not be able to receive any points. Any signs of cheating detected will
+  result in elimination of all points gained. Happy rolling!
+activity.rolldpos.information-note: >-
+  *Note: Every participant has up to 10 chances to roll the dice during this
+  campaign!
+activity.rolldpos.ready: 准备好了
+activity.rolldpos.refer.statement: 您推荐的好友完成答题后，您将获得一次投色子机会。活动期间您最多有十次投色子的机会。
+activity.rolldpos.refer.title: 分享链接给好友赢取一次机会
+activity.rolldpos.rolldpos: Roll-DPoS
+activity.rolldpos.start_the_ball_rolling.keep: 开始
+activity.rolldpos.submit.disabled: 请选择一个答案
+activity.rolldpos.submit.enabled: 提交
+activity.rolldpos.submit.verify: 确认中
+activity.rolldpos.subtitle: Roll-DPoS
+activity.rolldpos.success.title: 恭喜！
+activity.rolldpos.title: 您知道吗？
+activity.rolldpos.title.keep: Roll-DPoS Dice Campaign
+activity.rolldpos.video: 看视频答题，赢取抽奖机会，活动开始按钮会在观看视频几分钟后出现
+activity.rolldpos.yellow: 黄皮书
+auth.email.content: >-
+  You recently accessed your IoTeX account and need to verify yourself to
+  continue. Your code is ${code}.
+auth.email.subject: 'IoTeX security code is ${code}'
 auth.enter_phone_number: 输入手机号码
 auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
+auth.enter_verification_code.email: >-
+  Please enter the 6-digit verification code sent to your phone
+  <strong>${email}</strong>
 auth.login: 登录
+auth.login_with_email: Login with Email
 auth.login_with_mobile: 使用手机号登录
 auth.login_with_telegram: 用Telegram登录
 auth.next: 下一步
 auth.phone_number: 手机号码
+auth.tab.email: Email
 auth.tab.mobile: 手机登录
 auth.tab.telegram: Telegram
 auth.verification_code: 验证码
@@ -26,6 +62,7 @@ charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: 你的善举已经公示在IoTeX荣誉墙上！
 claim.btn: 兑换你的积分
+common.dice.start: 开始
 contact.btn: 联系我们
 contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家团队将为您解答
 contact.title: 与我们保持联系
@@ -119,6 +156,13 @@ home.jack.desc.keep: >-
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
+home.jennifer.desc.keep: >-
+  Economics Major with Digital Humanities Minor at UCLA. Publicity Director  for
+  Design for America with marketing and project management experience  for 5+
+  organizations. Human-centered design and blockchain enthusiast.
+home.jennifer.linkedin.keep: null
+home.jennifer.name.keep: Jennifer Vuong
+home.jennifer.title.keep: Digital Marketing Intern
 home.jing.desc.keep: >-
   美国前沿科技创业者和天使投资人。Sparkland基金主要成员之一。 领导着超过40项区块链、安全，VR/AR和物联网领域的投资和创新。
   在初创公司、投资和生态建立领域有丰富的经验。
@@ -139,13 +183,6 @@ home.nick.desc.keep: 南加州大学计算机硕士，威斯康星大学计算�
 home.nick.linkedin.keep: null
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: 全栈实习生
-home.jennifer.desc.keep: >-
-  Economics Major with Digital Humanities Minor at UCLA. Publicity Director 
-  for Design for America with marketing and project management experience 
-  for 5+ organizations. Human-centered design and blockchain enthusiast.
-home.jennifer.linkedin.keep: null
-home.jennifer.name.keep: Jennifer Vuong
-home.jennifer.title.keep: Digital Marketing Intern
 home.paddy.desc.keep: 微软高级软件工程师，专攻分布式系统。 开源项目的活跃贡献者。于耶鲁大学获得计算机科学硕士学位
 home.paddy.linkedin.keep: null
 home.paddy.name.keep: Paddy Kan
@@ -274,6 +311,7 @@ profile.send.total: 总额
 profile.wallet.exchange: 交易所
 profile.wallet.rank: 排名
 profile.wallet.title: 您的 IoTeX Tokens
+rate_limit: rate_limit
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 获取最新项目进展和活动消息
@@ -293,42 +331,15 @@ topbar.announcements: 公告
 topbar.blog: 博客
 topbar.careers: 职位
 topbar.charity: 慈善
+topbar.dksap-iot: DKSAP-IoT
 topbar.explorer: 浏览器
 topbar.faq: FAQ
 topbar.logout: 退出
 topbar.press: 新闻
 topbar.research: 研究
 topbar.resource: 资源
+topbar.roll_dpos: Roll-DPoS
 topbar.video: 视频
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
-activity.rolldpos.earned: 您获得了<strong>%d</strong>分！
-activity.rolldpos.chance: 您还有<strong>%d</strong>次机会
-activity.rolldpos.success.title: 恭喜！
-activity.rolldpos.refer.title: 分享链接给好友赢取一次机会
-activity.rolldpos.refer.statement: >-
-  您推荐的好友完成答题后，您将获得一次投色子机会。活动期间您最多有十次投色子的机会。
-activity.rolldpos.rolldpos: Roll-DPoS
-activity.rolldpos.fail.title: 回答错误，下次加油
-activity.rolldpos.general.title: Roll-DPos活动
-common.dice.start: 开始
-activity.rolldpos.title: 您知道吗？
-activity.rolldpos.subtitle: Roll-DPoS
-activity.rolldpos.video: >-
-  看视频答题，赢取抽奖机会，活动开始按钮会在观看视频几分钟后出现
-activity.rolldpos.yellow: 黄皮书
-activity.rolldpos.blog: 博客
-activity.rolldpos.ready: 准备好了
-activity.rolldpos.submit.enabled: 提交
-activity.rolldpos.submit.disabled: 请选择一个答案
-activity.rolldpos.submit.verify: 确认中
-auth.invalid_phone_number: 无效号码
-activity.rolldpos.start_the_ball_rolling.keep: 开始
-activity.rolldpos.information: >-
-  Please strictly follow the <a href="https://goo.gl/hZpc6T" target="_blank">Instruction</a> to be an eligible participant.
-  Otherwise, you will not be able to receive any points.
-  Any signs of cheating detected will result in elimination of all points gained. Happy rolling!
-activity.rolldpos.information-note: '*Note: Every participant has up to 10 chances to roll the dice during this campaign!'
-topbar.dksap-iot: DKSAP-IoT
-topbar.roll_dpos: Roll-DPoS
