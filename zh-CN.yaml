@@ -37,6 +37,7 @@ auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短�
 auth.enter_verification_code.email: >-
   Please enter the 6-digit verification code sent to your phone
   <strong>${email}</strong>
+auth.invalid_v_code: Verification code is incorrect
 auth.login: 登录
 auth.login_with_email: Login with Email
 auth.login_with_mobile: 使用手机号登录
@@ -311,7 +312,7 @@ profile.send.total: 总额
 profile.wallet.exchange: 交易所
 profile.wallet.rank: 排名
 profile.wallet.title: 您的 IoTeX Tokens
-rate_limit: rate_limit
+rate_limit: Too many requests
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 获取最新项目进展和活动消息

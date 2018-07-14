@@ -44,6 +44,7 @@ auth.enter_verification_code: >-
 auth.enter_verification_code.email: >-
   Please enter the 6-digit verification code sent to your phone
   <strong>${email}</strong>
+auth.invalid_v_code: Verification code is incorrect
 auth.login: Accedi
 auth.login_with_email: Login with Email
 auth.login_with_mobile: Accedi con numero di telefono
@@ -396,7 +397,7 @@ profile.send.total: Totale
 profile.wallet.exchange: Exchanges
 profile.wallet.rank: Posizione
 profile.wallet.title: I Tuoi Token IoTeX
-rate_limit: rate_limit
+rate_limit: Too many requests
 stonevan.twitter: >-
   Ho appena ottenuto 100 punti gratuiti da IoTeX festeggiando la prima versione
   di anteprima della loro Testnet. @iotex_io Vieni e ottieni i tuoi punti!

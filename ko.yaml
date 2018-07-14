@@ -42,6 +42,7 @@ auth.enter_verification_code: 전송된 6자리 인증번호를 입력하세요 
 auth.enter_verification_code.email: >-
   Please enter the 6-digit verification code sent to your phone
   <strong>${email}</strong>
+auth.invalid_v_code: Verification code is incorrect
 auth.login: 로그인
 auth.login_with_email: Login with Email
 auth.login_with_mobile: 전화번호로 로그인
@@ -351,7 +352,7 @@ profile.send.total: 합
 profile.wallet.exchange: Exchanges
 profile.wallet.rank: Rank
 profile.wallet.title: Your IoTeX Tokens
-rate_limit: rate_limit
+rate_limit: Too many requests
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!

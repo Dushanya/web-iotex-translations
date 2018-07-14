@@ -44,6 +44,7 @@ auth.enter_verification_code: >-
 auth.enter_verification_code.email: >-
   Please enter the 6-digit verification code sent to your phone
   <strong>${email}</strong>
+auth.invalid_v_code: Verification code is incorrect
 auth.login: Логин
 auth.login_with_email: Login with Email
 auth.login_with_mobile: Войти с помощью номера телефона
@@ -393,7 +394,7 @@ profile.send.total: Всего
 profile.wallet.exchange: Exchanges
 profile.wallet.rank: Рейтинг
 profile.wallet.title: Ваши IoTeX токены
-rate_limit: rate_limit
+rate_limit: Too many requests
 stonevan.twitter: >-
   Я только что получил 100 очков от IoTeX в подарок, в честь выпуска первого
   кода - привью Тест-нета. @iotex_io Присоединяйтесь и получайте очки!
