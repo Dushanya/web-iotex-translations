@@ -369,5 +369,5 @@ activity.rolldpos.information: >-
   Otherwise, you will not be able to receive any points.
   Any signs of cheating detected will result in elimination of all points gained. Happy rolling!
 activity.rolldpos.information-note: '*Note: Every participant has up to 10 chances to roll the dice during this campaign!'
-topbar.dksap-iot: DKSAP-IOT
-topbar.roll_dpos: ROLL-DPOS
+topbar.dksap-iot: DKSAP-IoT
+topbar.roll_dpos: Roll-DPoS
