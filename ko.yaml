@@ -1,13 +1,55 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
+activity.rolldpos.blog: Blog Post
+activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dice.
+activity.rolldpos.earned: You have earned <strong>%d</strong> points!
+activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
+activity.rolldpos.general.title: Roll-DPos Event
+activity.rolldpos.information: >-
+  Please strictly follow the <a href="https://goo.gl/hZpc6T"
+  target="_blank">Instruction</a> to be an eligible participant. Otherwise, you
+  will not be able to receive any points. Any signs of cheating detected will
+  result in elimination of all points gained. Happy rolling!
+activity.rolldpos.information-note: >-
+  *Note: Every participant has up to 10 chances to roll the dice during this
+  campaign!
+activity.rolldpos.ready: I Am Ready!
+activity.rolldpos.refer.statement: >-
+  You will get one more chance when your friends finish step 1-5 and roll the
+  dice. Every participant has up to 10 chances to roll the dice during the
+  campaign period.
+activity.rolldpos.refer.title: Refer a friend to get another chance.
+activity.rolldpos.rolldpos: Roll-DPoS
+activity.rolldpos.start_the_ball_rolling.keep: START
+activity.rolldpos.submit.disabled: Please select one answer!
+activity.rolldpos.submit.enabled: Submit!
+activity.rolldpos.submit.verify: Verifying!
+activity.rolldpos.subtitle: Roll-DPoS
+activity.rolldpos.success.title: CONGRATULATIONS!
+activity.rolldpos.title: How Much Do You Know About
+activity.rolldpos.title.keep: Roll-DPoS Dice Campaign
+activity.rolldpos.video: >-
+  The start button will appear after you watch the video about IoTeX Testnet
+  alpha for a while.  Then answer a question to roll the dice!
+activity.rolldpos.yellow: Yellow Paper
+auth.email.content: >-
+  You recently accessed your IoTeX account and need to verify yourself to
+  continue. Your code is ${code}.
+auth.email.subject: 'IoTeX security code is ${code}'
 auth.enter_phone_number: 전화번호를 입력하세요
 auth.enter_verification_code: 전송된 6자리 인증번호를 입력하세요 <strong>%s</strong>
+auth.enter_verification_code.email: >-
+  Please enter the 6-digit verification code sent to your phone
+  <strong>${email}</strong>
+auth.invalid_v_code: Verification code is incorrect
 auth.login: 로그인
+auth.login_with_email: Login with Email
 auth.login_with_mobile: 전화번호로 로그인
 auth.login_with_telegram: 텔레그램으로 로그인
 auth.next: 다음
 auth.phone_number: 휴대폰 번호
+auth.tab.email: Email
 auth.tab.mobile: Phone(CN)
 auth.tab.telegram: 텔레그램
 auth.verification_code: 인증번호
@@ -26,6 +68,7 @@ charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: 이제 IoTeX의 명예의 전당에 오르셨습니다!
 claim.btn: 포인트를 신청하세요.
+common.dice.start: START
 contact.btn: 문의처
 contact.desc: IoTeX 팀이 이메일(support@iotex.io)을 통해 최대한 빠르게 답변해 드리겠습니다.
 contact.title: IoTeX 팀에 물어봐 주세요.
@@ -135,6 +178,13 @@ home.jack.desc.keep: >-
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
+home.jennifer.desc.keep: >-
+  Economics Major with Digital Humanities Minor at UCLA. Publicity Director  for
+  Design for America with marketing and project management experience  for 5+
+  organizations. Human-centered design and blockchain enthusiast.
+home.jennifer.linkedin.keep: null
+home.jennifer.name.keep: Jennifer Vuong
+home.jennifer.title.keep: Digital Marketing Intern
 home.jing.desc.keep: >-
   Founding partner of Sparkland Capital, focusing on Frontier Tech, lead 40+
   investments and innovations in blockchain, security and IoT. Board director on
@@ -162,13 +212,6 @@ home.nick.desc.keep: >-
 home.nick.linkedin.keep: null
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Full Stack Intern
-home.jennifer.desc.keep: >-
-  Economics Major with Digital Humanities Minor at UCLA. Publicity Director 
-  for Design for America with marketing and project management experience 
-  for 5+ organizations. Human-centered design and blockchain enthusiast.
-home.jennifer.linkedin.keep: null
-home.jennifer.name.keep: Jennifer Vuong
-home.jennifer.title.keep: Digital Marketing Intern
 home.paddy.desc.keep: >-
   Senior Software Engineer at Microsoft, specialized in distributed systems.
   Active contributor to open source projects. M.S. Computer Science at Yale
@@ -309,6 +352,7 @@ profile.send.total: 합
 profile.wallet.exchange: Exchanges
 profile.wallet.rank: Rank
 profile.wallet.title: Your IoTeX Tokens
+rate_limit: Too many requests
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
@@ -330,44 +374,15 @@ topbar.announcements: 새소식
 topbar.blog: 블로그
 topbar.careers: 채용 안내
 topbar.charity: 자선 프로그램
+topbar.dksap-iot: DKSAP-IoT
 topbar.explorer: EXPLORER
 topbar.faq: FAQ
 topbar.logout: 로그아웃
 topbar.press: PRESS RELEASE
 topbar.research: RESEARCH
 topbar.resource: RESOURCE
+topbar.roll_dpos: Roll-DPoS
 topbar.video: VIDEO
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
-activity.rolldpos.earned: You have earned <strong>%d</strong> points!
-activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dice.
-activity.rolldpos.success.title: CONGRATULATIONS!
-activity.rolldpos.refer.title: Refer a friend to get another chance.
-activity.rolldpos.refer.statement: >-
-  You will get one more chance when your friends finish step 1-5 and roll
-  the dice. Every participant has up to 10 chances to roll the dice during the campaign period.
-activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
-activity.rolldpos.general.title: Roll-DPos Event
-activity.rolldpos.title: How Much Do You Know About
-activity.rolldpos.subtitle: Roll-DPoS
-activity.rolldpos.video: >-
-  The start button will appear after you watch the video about IoTeX Testnet alpha for a while. 
-  Then answer a question to roll the dice!
-activity.rolldpos.yellow: Yellow Paper
-activity.rolldpos.blog: Blog Post
-activity.rolldpos.ready: I Am Ready!
-activity.rolldpos.submit.enabled: Submit!
-activity.rolldpos.submit.disabled: Please select one answer!
-activity.rolldpos.submit.verify: Verifying!
-activity.rolldpos.rolldpos: Roll-DPoS
-auth.invalid_phone_number: auth.invalid_phone_number
-common.dice.start: START
-activity.rolldpos.start_the_ball_rolling.keep: START
-activity.rolldpos.information: >-
-  Please strictly follow the <a href="https://goo.gl/hZpc6T" target="_blank">Instruction</a> to be an eligible participant.
-  Otherwise, you will not be able to receive any points.
-  Any signs of cheating detected will result in elimination of all points gained. Happy rolling!
-activity.rolldpos.information-note: '*Note: Every participant has up to 10 chances to roll the dice during this campaign!'
-topbar.dksap-iot: DKSAP-IoT
-topbar.roll_dpos: Roll-DPoS
