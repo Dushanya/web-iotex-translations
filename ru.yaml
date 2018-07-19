@@ -367,7 +367,7 @@ profile.receive.amount: Сумма
 profile.receive.button: ПОЛУЧИТЬ
 profile.receive.menu: ПОЛУЧИТЬ
 profile.receive.prompt: ВВЕДИТЕ КОД
-profile.receive.success: Поздравляем! Вы только что получили %d очков.
+profile.receive.success: Поздравляем! Вы только что получили ${amount} очков.
 profile.receive.time: Время
 profile.redeem.amount: Сумма
 profile.redeem.button: ОТПРАВИТЬ ЗАЯВКУ
@@ -379,7 +379,7 @@ profile.redeem.success: >-
   избежать перегрузки в сети Ethereum, мы будем постепенно их обрабатывать и
   завершим обмен в течении двух недель.
 profile.redeem.time: Время
-profile.refund.success: '%d очков вернулись на ваш аккаунт.'
+profile.refund.success: '${amount} очков вернулись на ваш аккаунт.'
 profile.send.amount: Сумма
 profile.send.button: СГЕНЕРИРОВАТЬ КОД
 profile.send.code: Код

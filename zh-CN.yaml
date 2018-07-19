@@ -285,7 +285,7 @@ profile.receive.amount: 数量
 profile.receive.button: 兑换积分
 profile.receive.menu: 接收
 profile.receive.prompt: 请输入兑换码
-profile.receive.success: 恭喜！成功获取 %d 积分。
+profile.receive.success: 恭喜！成功获取 ${amount} 积分。
 profile.receive.time: 时间
 profile.redeem.amount: 数量
 profile.redeem.button: 提交申请
@@ -297,7 +297,7 @@ profile.redeem.success: >-
   Ethereum  network, we will process the applications gradually and finalize all
   point-to-token  redemptions within two weeks.
 profile.redeem.time: 时间
-profile.refund.success: '%d 积分已返还到您的账户。'
+profile.refund.success: '${amount} 积分已返还到您的账户。'
 profile.send.amount: 数量
 profile.send.button: 生成兑换码
 profile.send.code: 兑换码

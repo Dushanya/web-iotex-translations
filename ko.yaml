@@ -326,7 +326,7 @@ profile.receive.amount: 금액
 profile.receive.button: 받기
 profile.receive.menu: 받기
 profile.receive.prompt: 코드를 입력하세요.
-profile.receive.success: 축하해요! 방금 %d 포인트를 확보하셨습니다.
+profile.receive.success: 축하해요! 방금 ${amount} 포인트를 확보하셨습니다.
 profile.receive.time: 시간
 profile.redeem.amount: 금액
 profile.redeem.button: 제출
@@ -337,7 +337,7 @@ profile.redeem.success: >-
   신청서가 등록되어, 순서를 기다리는 중입니다. 이더리움 네트워크의 혼잡성을 피하기 위해, 신청서를 순차적으로 처리합니다. 포인트의 토큰
   전환은 2주 안에 진행 완료 됩니다.
 profile.redeem.time: 시간
-profile.refund.success: '%d points have been refunded to your account.'
+profile.refund.success: '${amount} points have been refunded to your account.'
 profile.send.amount: Amount
 profile.send.button: 보내기
 profile.send.code: 코드

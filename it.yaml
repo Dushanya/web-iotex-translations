@@ -370,7 +370,7 @@ profile.receive.amount: Quantità
 profile.receive.button: RICEVI
 profile.receive.menu: RICEVI
 profile.receive.prompt: INSERISCI IL CODICE
-profile.receive.success: Congratulazioni! Hai appena ricevuto %d punti.
+profile.receive.success: Congratulazioni! Hai appena ricevuto ${amount} punti.
 profile.receive.time: Ora
 profile.redeem.amount: Quantità
 profile.redeem.button: INVIA RICHIESTA
@@ -382,7 +382,7 @@ profile.redeem.success: >-
   rete Ethereum, elaboreremo le richieste gradualmente, portando a termine tutte
   le conversioni da punti a IOTX entro due settimane.
 profile.redeem.time: Ora
-profile.refund.success: '%d punti sono stati rimborsati nel tuo account.'
+profile.refund.success: '${amount} punti sono stati rimborsati nel tuo account.'
 profile.send.amount: Quantità
 profile.send.button: GENERA IL CODICE
 profile.send.code: Codice
