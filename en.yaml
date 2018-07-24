@@ -420,7 +420,7 @@ topbar.video: VIDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
-activity.forum.subtitle: Preview
-activity.forum.title: Check out our new IoTeX Forum
-activity.forum.enter: Go
-activity.forum.enter: Use your refer link below to invite up to 10 friends!
+activity.forum.subtitle.keep: Preview
+activity.forum.title.keep: Check out our new IoTeX Forum
+activity.forum.enter.keep: Go
+activity.forum.refer.keep: Use your refer link below to invite up to 10 friends!
