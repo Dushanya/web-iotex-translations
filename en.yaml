@@ -2,7 +2,7 @@ about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
 activity.rolldpos.blog: Blog Post
-activity.rolldpos.chance: You have <strong>${chance}</strong> chance(s) to roll the dice.
+activity.rolldpos.chance: 'You have <strong>${chance}</strong> chance(s) to roll the dice.'
 activity.rolldpos.earned: You have earned <strong>%d</strong> points!
 activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
 activity.rolldpos.general.title: Roll-DPos Event
@@ -359,7 +359,7 @@ profile.receive.amount: Amount
 profile.receive.button: RECEIVE
 profile.receive.menu: RECEIVE
 profile.receive.prompt: ENTER THE CODE
-profile.receive.success: Congratulations! You just received ${amount} points.
+profile.receive.success: 'Congratulations! You just received ${amount} points.'
 profile.receive.time: Time
 profile.redeem.amount: Amount
 profile.redeem.button: SUBMIT APPLICATION

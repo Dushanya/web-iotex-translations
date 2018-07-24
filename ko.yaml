@@ -326,7 +326,7 @@ profile.receive.amount: 금액
 profile.receive.button: 받기
 profile.receive.menu: 받기
 profile.receive.prompt: 코드를 입력하세요.
-profile.receive.success: 축하해요! 방금 ${amount} 포인트를 확보하셨습니다.
+profile.receive.success: '축하해요! 방금 ${amount} 포인트를 확보하셨습니다.'
 profile.receive.time: 시간
 profile.redeem.amount: 금액
 profile.redeem.button: 제출
