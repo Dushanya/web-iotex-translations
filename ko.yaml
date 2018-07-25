@@ -1,50 +1,48 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
-  locale_strings.js.
-activity.rolldpos.blog: Blog Post
-activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dice.
-activity.rolldpos.earned: You have earned <strong>%d</strong> points!
-activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
-activity.rolldpos.general.title: Roll-DPos Event
+  locale_strings.js. 
+activity.rolldpos.blog: 블로그 포스트
+activity.rolldpos.chance: 주사위를 <strong>%d</strong> 번 굴릴 수 있습니다. 
+activity.rolldpos.earned:  <strong>%d</strong> 포인트를 획득하였습니다. 
+activity.rolldpos.fail.title: 오답입니다. 다음 기회에 도전하세요. 
+activity.rolldpos.general.title: Roll-DPos 이벤트
 activity.rolldpos.information: >-
   Please strictly follow the <a href="https://goo.gl/hZpc6T"
-  target="_blank">Instruction</a> to be an eligible participant. Otherwise, you
-  will not be able to receive any points. Any signs of cheating detected will
-  result in elimination of all points gained. Happy rolling!
+  target="_blank">Instruction</a> 주사위 놀이에 참여하시기 위해서, 아래에 준비된 사항을 반드시 따라 주세요. 
+  안그러면, 포인트를 획득하실수 없습니다. 
+  혹시라도 적절하지 못한 부정행위를 발견하게 되면, 죄송하지만 획득하신 포인트를 잃게 되실거에요.
+   그럼, 재미난 주사위 놀이가 되시길!
 activity.rolldpos.information-note: >-
-  *Note: Every participant has up to 10 chances to roll the dice during this
-  campaign!
-activity.rolldpos.ready: I Am Ready!
+  *참고: 모든 분들은 저희 캠페인이 진행되는 기간 동안 10번의 기회까지 가지실 수 있습니다! 
+activity.rolldpos.ready: 준비되었습니다!
 activity.rolldpos.refer.statement: >-
-  You will get one more chance when your friends finish step 1-5 and roll the
-  dice. Every participant has up to 10 chances to roll the dice during the
-  campaign period.
-activity.rolldpos.refer.title: Refer a friend to get another chance.
+  친구들이 스텝 1-5를 완료하면, 저희 텔레그램 바운티 봇(@IoTeXBountyBot)이 노티를 드릴꺼에요. 
+  모든 분들은 저희 캠페인이 진행되는 기간 동안 10번의 기회까지 가지실 수 있습니다! 
+activity.rolldpos.refer.title: 친구에게 공유하고, 또 한번의 기회를 가지세요.
 activity.rolldpos.rolldpos: Roll-DPoS
-activity.rolldpos.start_the_ball_rolling.keep: START
-activity.rolldpos.submit.disabled: Please select one answer!
-activity.rolldpos.submit.enabled: Submit!
-activity.rolldpos.submit.verify: Verifying!
+activity.rolldpos.start_the_ball_rolling.keep: 시작
+activity.rolldpos.submit.disabled: 정답을 선택해주세요.
+activity.rolldpos.submit.enabled: 제출!
+activity.rolldpos.submit.verify: 확인중! 
 activity.rolldpos.subtitle: Roll-DPoS
-activity.rolldpos.success.title: CONGRATULATIONS!
-activity.rolldpos.title: How Much Do You Know About
+activity.rolldpos.success.title: 축하드립니다!
+activity.rolldpos.title: Roll-DPoS에 대해서 얼마나 알고 계신가요
 activity.rolldpos.title.keep: Roll-DPoS Dice Campaign
 activity.rolldpos.video: >-
-  The start button will appear after you watch the video about IoTeX Testnet
-  alpha for a while.  Then answer a question to roll the dice!
-activity.rolldpos.yellow: Yellow Paper
+  IoTeX 테스트넷 알파에 관한 비디오를 끝까지 보시면, 시작 버튼이 나타납니다. 
+  질문에 답하시고, 주사위를 굴리세요!
+activity.rolldpos.yellow: 황서
 auth.email.content: >-
-  You recently accessed your IoTeX account and need to verify yourself to
-  continue. Your code is ${code}.
-auth.email.subject: 'IoTeX security code is ${code}'
+  최근에 IoTeX 계정에 접속하셨습니다. 계속하기 위해, 본인 인증이 필요합니다. 
+  인증 코드는  ${code} 입니다.
+auth.email.subject: IoTeX 보안코드는 ${code}'입니다. 
 auth.enter_phone_number: 전화번호를 입력하세요
 auth.enter_verification_code: 전송된 6자리 인증번호를 입력하세요 <strong>%s</strong>
 auth.enter_verification_code.email: >-
-  Please enter the 6-digit verification code sent to your phone
-  <strong>${email}</strong>
-auth.invalid_v_code: Verification code is incorrect
+  휴대폰에 보낸 6자리 인증코드를 입력해 주세요. <strong>${email}</strong>
+auth.invalid_v_code: 올바른 코드가 아닙니다. 
 auth.login: 로그인
-auth.login_with_email: Login with Email
+auth.login_with_email: 이메일로 로그인 하세요. 
 auth.login_with_mobile: 전화번호로 로그인
 auth.login_with_telegram: 텔레그램으로 로그인
 auth.next: 다음
@@ -283,17 +281,17 @@ home.zhijie.desc.keep: >-
 home.zhijie.linkedin.keep: 'https://www.linkedin.com/in/zjshen/'
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Staff Blockchain Engineer
-profile.eth.eth_new: 4. Enter your new ETH address
-profile.eth.expiration: Expire at
-profile.eth.invalid: Please enter a valid ETH address.
-profile.eth.message: '1. Copy the message:'
-profile.eth.sign_new: '2. Sign the message with your private key:'
-profile.eth.sign_old: '2. Sign the message with your OLD private key:'
-profile.eth.signature: 3. Fill in the signature
-profile.eth.update: Update your ETH address
-profile.eth.updated: Your ETH address has been updated.
-profile.eth.verified: Your ETH address has been verified.
-profile.eth.verify: Verify your ETH address
+profile.eth.eth_new: 4. 새로운 ETH 주소를 입력해 주세요. 
+profile.eth.expiration: 만료
+profile.eth.invalid: 유효한 ETH 주소를 입력해 주세요. 
+profile.eth.message: '1. 메세지를 복사해 주세요.:'
+profile.eth.sign_new: '2. 프라이빗 키로 메세지에 사인해 주세요. :'
+profile.eth.sign_old: '2. 예전 프라이빗 키로 메세지에 사인해 주세요.:'
+profile.eth.signature: 3. 시그니쳐 부분을 복사해 주세요. 
+profile.eth.update: ETH 주소를 업데이트해 주세요. 
+profile.eth.updated: ETH 주소가 업데이트 되었습니다. 
+profile.eth.verified: ETH주소가 확인되었습니다.
+profile.eth.verify: ETH주소를 확인하세요.
 profile.history.category: 카테고리
 profile.history.menu: 이용내역
 profile.history.point: 포인트
@@ -302,31 +300,31 @@ profile.info.eth_address: ETH 주소
 profile.info.phone_number: 전화번호
 profile.info.telegram_account_id: 텔레그램
 profile.message.back: 이전
-profile.message.change: CHANGE
-profile.message.close: Close
-profile.message.copied: COPIED
+profile.message.change: 변경 
+profile.message.close: 닫기
+profile.message.copied: 복사 
 profile.message.copy: 복사하기
-profile.message.generate: Generate
+profile.message.generate: 생성
 profile.message.less_than_100_points: 진행을 위해서 최소 100 포인트가 필요합니다.
-profile.message.loading: Loading
-profile.message.memo: Memo
-profile.message.no_eth: You need an ETH address to redeem.
+profile.message.loading: 처리중
+profile.message.memo: 메모
+profile.message.no_eth: 교환을 위해 ETH 주소가 필요합니다. 
 profile.message.not_a_number: 유효한 숫자를 입력하세요.
 profile.message.not_enough_points: 포인트가 부족합니다.
 profile.message.processing: 처리중
-profile.message.refund: REFUND
-profile.message.result: Result
-profile.message.set: SET
-profile.message.sign: SIGN
-profile.message.submit: Submit
-profile.message.verify: VERIFY
-profile.message.view: VIEW
-profile.points.title: Your IoTeX Points
+profile.message.refund: 환불
+profile.message.result: 결과
+profile.message.set: SET 
+profile.message.sign: SIGN 
+profile.message.submit: 제출
+profile.message.verify: 인증 
+profile.message.view: 보기 
+profile.points.title:  IoTeX 포인트 
 profile.receive.amount: 금액
 profile.receive.button: 받기
 profile.receive.menu: 받기
 profile.receive.prompt: 코드를 입력하세요.
-profile.receive.success: '축하해요! 방금 ${amount} 포인트를 확보하셨습니다.'
+profile.receive.success: 축하해요! 방금 ${amount} 포인트를 확보하셨습니다.
 profile.receive.time: 시간
 profile.redeem.amount: 금액
 profile.redeem.button: 제출
@@ -337,36 +335,36 @@ profile.redeem.success: >-
   신청서가 등록되어, 순서를 기다리는 중입니다. 이더리움 네트워크의 혼잡성을 피하기 위해, 신청서를 순차적으로 처리합니다. 포인트의 토큰
   전환은 2주 안에 진행 완료 됩니다.
 profile.redeem.time: 시간
-profile.refund.success: '${amount} points have been refunded to your account.'
-profile.send.amount: Amount
+profile.refund.success: '${amount} 포인트가 계정으로 환불되었습니다.'
+profile.send.amount: 금액
 profile.send.button: 보내기
 profile.send.code: 코드
 profile.send.end: 종료 시간
 profile.send.left: 왼쪽
-profile.send.memo: Memo (optional)
+profile.send.memo: 메모 (선택)
 profile.send.menu: 보내기
 profile.send.prompt: 보내고자 하는 금액을 입력하세요.
 profile.send.start: 시작 시간
 profile.send.success: IoTeX 코드가 생성되었습니다!
 profile.send.total: 합
-profile.wallet.exchange: Exchanges
-profile.wallet.rank: Rank
+profile.wallet.exchange: 교환
+profile.wallet.rank: 순위
 profile.wallet.title: Your IoTeX Tokens
-rate_limit: Too many requests
+rate_limit: 너무 많은 요청
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
 subscribe.btn: 구독
 subscribe.desc: 최근 진행사항과 이벤트 안내
 subscribe.title: 새 소식을 놓치지 마세요.
-testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title.keep: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
+testnet-alpha.home-title.keep: 테스트넷알파 (Strive)가 공개될 예정입니다
+testnet-alpha.released-event-title.keep: 테스트넷 알파가 공개 되었습니다. 
+testnet-alpha.released-title.keep: 테스트넷 알파가 공개 되었습니다. 
 testnet-preview.home-title.keep: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
 testnet-preview.released-event-title.keep: 테스트넷 미리보기가 공개 되었습니다!
 testnet-preview.released-title.keep: 테스트넷 미리보기가 공개 되었습니다.
-testnet.code: CODE
-testnet.demo: DEMO
+testnet.code: 코드
+testnet.demo: 데모
 testnet.detail: DETAIL
 topbar.about: ABOUT
 topbar.account: 계정
