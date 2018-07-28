@@ -440,3 +440,5 @@ activity.telegram-korean.claimed: You have claimed your candy. Thank you for par
 activity.telegram-korean.verify-telegram.error: "Error: Please make sure you have logged in using telegram and joined our Korean telegram group."
 activity.telegram-korean.twilio.title: Verify your phone number
 activity.telegram-korean.twilio.button: Verify
+activity.telegram-korean.error.send-code-verification: "Error: there is an error sending verification code. Please try again later."
+activity.telegram-korean.error.not-in-verification-stage: "Error: please make sure you logged in with telegram account and passed reCaptcha test."
