@@ -448,4 +448,6 @@ activity.telegram-korean.description: An Auto-Scalable and Privacy-Centric Block
 activity.telegram-korean.title: Korean Telegram Group Airdrop Event
 activity.telegram-korean.referral: "Referral link:"
 activity.telegram-korean.claimed: You have claimed your candy. Thank you for participating!
-activity.telegram-korean.verify-telegram.error: Error: Please make sure you have logged in using telegram and joined our Korean telegram group.
+activity.telegram-korean.verify-telegram.error: "Error: Please make sure you have logged in using telegram and joined our Korean telegram group."
+activity.telegram-korean.twilio.title: Verify your phone number
+activity.telegram-korean.twilio.button: Verify
