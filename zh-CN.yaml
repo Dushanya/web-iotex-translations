@@ -350,6 +350,9 @@ activity.forum.enter.keep: 进入
 activity.forum.refer.keep: 邀请10个好友参与内测
 activity.telegram-korean.claim-candy.title: Earn 200 Candy (IOTX) As A Thank-You Gift!
 activity.telegram-korean.claim-candy.button: Get My Candy
+activity.telegram-korean.claim-candy.error.stage: "Error: Please make sure you have verified your phone number and joined our Korean telegram group."
+activity.telegram-korean.claim-candy.error.add: "Error: error in adding points"
+activity.telegram-korean.error.update: "Error: error in updating stage"
 activity.telegram-korean.join-group.title: Join Our Korean Telegram Group to Claim Candy!
 activity.telegram-korean.join-group.join: Join
 activity.telegram-korean.join-group.confirm: I'm in the group!
@@ -358,3 +361,4 @@ activity.telegram-korean.description: An Auto-Scalable and Privacy-Centric Block
 activity.telegram-korean.title: Korean Telegram Group Airdrop Event
 activity.telegram-korean.referral: "Referral link:"
 activity.telegram-korean.claimed: You have claimed your candy. Thank you for participating!
+activity.telegram-korean.verify-telegram.error: Error: Please make sure you have logged in using telegram and joined our Korean telegram group.
