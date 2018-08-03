@@ -451,3 +451,71 @@ activity.telegram-korean.claimed: You have claimed your candy. Thank you for par
 activity.telegram-korean.verify-telegram.error: "Error: Please make sure you have logged in using telegram and joined our Korean telegram group."
 activity.telegram-korean.twilio.title: Verify your phone number
 activity.telegram-korean.twilio.button: Verify
+partners.title: IoTeX Partnerships Program
+partners.subtitle-description: >-
+  IoTeX and our global ecosystem partners are building the future of IoT on blockchain.
+partners.learn-more: Learn More
+partners.our-partners: Our Partners
+partners.partner-with: Partnering With IoTeX
+partners.why-partner: Development Partners
+partners.why.desc: >-
+  While any developer can leverage IoTeX’s open source infrastructure 
+  to build DApps, our official development partners will benefit from hands-on 
+  advisory via direct access to IoTeX’s product and technical teams. 
+  Development partners will be prioritized to beta test new IoTeX features 
+  and will receive access to IoTeX’s network of blockchain / IoT contacts. 
+  Other resources, such as funding for proofs of concept, guidance on governance 
+  and cryptoeconomics, and technical consulting, will be provided on a discretionary 
+  basis. 
+partners.how: Ecosystem Partners
+partners.how.desc: >-
+  Our ecosystem partners will benefit from working directly with the IoTeX team, 
+  our development partners, and other ecosystem partners to align their sourcing, 
+  fostering, and distribution-related capabilities with blockchain technology. 
+  We will leverage the existing reach and influence of our ecosystem partners 
+  to bring new opportunities to IoTeX and our development partners.
+partners.join-iotex: Apply To Be An IoTeX Partner
+partners.apply-button: Apply
+partners.apply-desc: >-
+  Interested in becoming an official development partner or ecosystem partner 
+  of IoTeX? We look forward to hearing from you - apply via the link below!
+partners.partner-with.more-info: >-
+  For complete details on the benefits and expectations of being a development 
+  partner or ecosystem partner, please see our official 
+  <a style="color:white" href="https://medium.com/@iotex/iotex-official-partnership-program-launch-eb9bca7050eb" target="_blank"/>
+  IoTeX Partnerships Program</a> blog post.
+partners.lineable.catchphrase: >-
+  Keeping Families Safe With Blockchain
+partners.lineable.content: >-
+  Lineable is a hardware company that builds smart wearable devices to <strong>keep families safe and 
+  connected</strong>. They partner with telecom giants around the world to connect their products, 
+  which offer SOS alerts, location tracking / geofencing, and health monitoring.
+  <br/><br/>
+  Lineable will use IoTeX’s blockchain to ensure full privacy of user data (e.g., geolocation, health) 
+  and to securely share verifiable user data with third parties, such as research 
+  institutions to pre-diagnose medical conditions. IoTeX and Lineable hope to connect 1,000,000+ Lineable 
+  devices to the IoTeX blockchain in 2019.
+partners.lineable.location: Seoul, Korea
+partners.lineable.industry: Wearable devices, LoRaWAN connectivity
+partners.lineable.media: >-
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://globenewswire.com/news-release/2018/02/08/1336111/0/en/Semtech-s-LoRa-Technology-Help-Saves-Alzheimer-Patients-in-Real-Time.html">
+  Lineable Silver launch
+  </a>
+  <br/>
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="http://wearablesforgood.com/lineable/">
+  UNICEF "Wearables for Good"
+  </a>
+partners.lineable.website: <a href="https://www.lineable.net" style="color:black;text-decoration:none" target="_blank"/>www.lineable.net</a>
+partners.lineable.feature-btn: Official Announcement
+partners.lineable.quote: >-
+  <strong>"Lineable's mission of creating a crowdsourced safety network for families has 
+  finally found a perfect complement - IoTeX's blockchain technology."</strong>
+  <br/><br/>
+  - Seokmin Moon, Lineable CEO
+partners.sidebar.location: Location
+partners.sidebar.website: Website
+partners.sidebar.media: Media / PR
+partners.sidebar.industry: Industry
+partners.join-us: Join Us
