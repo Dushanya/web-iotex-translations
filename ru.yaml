@@ -190,14 +190,14 @@ home.fan.desc.keep: >-
   венчурных капиталистов в ежегодном списке Midas в Китае.
 home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
-home.fan.title.keep: null
+home.fan.title.keep: 'null'
 home.guang.desc.keep: >-
   Член IEEE и профессор в UWaterloo, Канада. Лучший ученый в области
   криптографии и легкой криптографии, специалист сети и безопасности
   радиочастотной идентификации (RFID)
 home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: null
+home.guang.title.keep: 'null'
 home.hao.desc.keep: >-
   Получает степень магистра программного обеспечения в Carnegie Mellon
   University. Веб и блокчейн разработчик.
@@ -210,7 +210,7 @@ home.jack.desc.keep: >-
   исполнительный директор FnConn, и совета директоров Abra.
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
-home.jack.title.keep: null
+home.jack.title.keep: 'null'
 home.jennifer.desc.keep: >-
   Economics Major with Digital Humanities Minor at UCLA. Publicity Director  for
   Design for America with marketing and project management experience  for 5+

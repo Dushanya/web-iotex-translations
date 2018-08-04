@@ -185,14 +185,14 @@ home.fan.desc.keep: >-
   capitalists in its annual China's Midas List.
 home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
-home.fan.title.keep: null
+home.fan.title.keep: 'null'
 home.guang.desc.keep: >-
   IEEE Fellow. Professor in University of Waterloo, Canada. Top Scientist in
   cryptography and lightweight cryptography, ad hoc network and Radio Frequency
   Identification (RFID) security.
 home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: null
+home.guang.title.keep: 'null'
 home.hao.desc.keep: >-
   Master in Software Engineering at Carnegie Mellon University. Web and
   blockchain enthusiast.
@@ -205,7 +205,7 @@ home.jack.desc.keep: >-
   Director of FnConn, and Board Director of Abra.
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
-home.jack.title.keep: null
+home.jack.title.keep: 'null'
 home.jennifer.desc.keep: >-
   Economics Major with Digital Humanities Minor at UCLA. Publicity Director for
   Design for America with marketing and project management experience for 5+

@@ -142,11 +142,11 @@ home.dustin.title.keep: 区块链工程师
 home.fan.desc.keep: 前红杉中国创始合伙人之一，DFJ ePlanet风投董事. 《福布斯》杂志将他列为中国年度“全球最佳创投人”排行榜的领衔风险投资家之一
 home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
-home.fan.title.keep: null
+home.fan.title.keep: 'null'
 home.guang.desc.keep: IEEE 研究员。加拿大滑铁卢大学教授。密码学和轻量级密码学、自组织网络和射频识别安全领域顶级科学家
 home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: null
+home.guang.title.keep: 'null'
 home.hao.desc.keep: 卡内基梅隆大学软件工程硕士在读。
 home.hao.linkedin.keep: null
 home.hao.name.keep: Hao Cui
@@ -156,7 +156,7 @@ home.jack.desc.keep: >-
   Ltd.联合创始人兼执行董事。FnConn创始人兼执行董事。Abra董事
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
-home.jack.title.keep: null
+home.jack.title.keep: 'null'
 home.jennifer.desc.keep: >-
   Economics Major with Digital Humanities Minor at UCLA. Publicity Director  for
   Design for America with marketing and project management experience  for 5+
