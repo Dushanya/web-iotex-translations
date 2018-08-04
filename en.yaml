@@ -424,7 +424,7 @@ whitepaper.button.previous: PREVIOUS
 activity.forum.subtitle.keep: Preview
 activity.forum.title.keep: Check out our new IoTeX Forum
 activity.forum.enter.keep: Go
-activity.forum.refer.keep: Use your refer link below to invite up to 10 friends!
+activity.forum.refer.keep: Generate your refer links below to invite up to 10 friends (input friends' hash id)!
 partners.title: IoTeX Partnerships Program
 partners.subtitle-description: >-
   IoTeX and our global ecosystem partners are building the future of IoT on blockchain.

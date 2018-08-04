@@ -388,7 +388,7 @@ whitepaper.button.previous: 이전
 activity.forum.subtitle.keep: Preview
 activity.forum.title.keep: Check out our new IoTeX Forum
 activity.forum.enter.keep: Go
-activity.forum.refer.keep: Use your refer link below to invite up to 10 friends!
+activity.forum.refer.keep: Generate your refer links below to invite up to 10 friends (input friends' hash id)!
 activity.telegram-korean.claim-candy.title: Earn 200 Candy (IOTX) As A Thank-You Gift!
 activity.telegram-korean.claim-candy.button: Get My Candy
 activity.telegram-korean.claim-candy.error.stage: "Error: Please make sure you have verified your phone number and joined our Korean telegram group."
