@@ -435,7 +435,7 @@ whitepaper.button.previous: PREVIOUS
 activity.forum.subtitle.keep: Preview
 activity.forum.title.keep: Check out our new IoTeX Forum
 activity.forum.enter.keep: Go
-activity.forum.refer.keep: Generate your refer links below to invite up to 10 friends (input friends' hash id)!
+activity.forum.refer.keep: Type in your friends hash id and generate your refer links to invite up to 10 people!
 activity.telegram-korean.claim-candy.title: Earn 200 Candy (IOTX) As A Thank-You Gift!
 activity.telegram-korean.claim-candy.button: Get My Candy
 activity.telegram-korean.claim-candy.error.stage: "Error: Please make sure you have verified your phone number and joined our Korean telegram group."
@@ -552,3 +552,6 @@ partners.lianan.quote: >-
   and smart contracts."
   <br/><br/>
   - Xia Yang, LianAn Technology Co-Founder
+activity.forum.generate: Generate
+activity.forum.reset: Reset
+activity.forum.error: Please make sure the hash id is correct.
