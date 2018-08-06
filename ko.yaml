@@ -407,10 +407,10 @@ activity.telegram-korean.twilio.title: Verify your phone number
 activity.telegram-korean.twilio.button: Verify
 partners.title: IoTeX 파트너십 프로그램
 partners.subtitle-description: >-
-  IoTeX와 글로벌 파트너 네트워크는 블록체인에서 IoT의 미래를 창조하고 있습니다. - 함께 해 주세요!
+  IoTeX와 글로벌 파트너 네트워크는 블록체인에서 IoT의 미래를 창조하고 있습니다.
 partners.learn-more: Learn More
-partners.our-partners: Our Partners
-partners.partner-with: Partnering With IoTeX
+partners.our-partners: 파트너
+partners.partner-with: IoTeX의 파트너십
 partners.why-partner: 개발 파트너
 partners.why.desc: >-
   개발자라면 누구나 IoTeX의 오픈 소스 인프라를 활용하여 DApps를 구축할 수 있습니다. 하지만, 공식 개발 
@@ -424,7 +424,7 @@ partners.how.desc: >-
   육성 및 유통 관련 기능을 강화할 수 있습니다. 우리는 생태계 파트너들의 기존 영역과 영향력을 활용하여, 
   IoTeX와 개발 파트너들에게 새로운 기회를 제공하고자 합니다.
 partners.join-iotex: IoTeX 파트너 프로그램에 신청해 주세요
-partners.apply-button: Apply
+partners.apply-button: 신청
 partners.apply-desc: >-
   IoTeX의 공식 개발 파트너 또는 생태계 파트너가 되는 데 관심이 있으신가요? 연락 기다리겠습니다. 
   아래 링크를 통해 신청해 주세요!
@@ -433,39 +433,39 @@ partners.partner-with.more-info: >-
   <a style="color:white" href="https://goo.gl/yNi1my" target="_blank"/>
   IoTeX 파트너십 프로그램</a> 블로그 게시물을 참조하십시오
 partners.lineable.catchphrase: >-
-  Keeping Families Safe With Blockchain
+  블록체인으로 소중한 가족을 안전하게
 partners.lineable.content: >-
   리니어블은 <strong>소중한 가족을 지킬 수 있도록</strong> 스마트 웨어러블 장치를 만드는 하드웨어 회사입니다. SOS 알림, 위치 추적 / 지오 펜싱 및 
   건강 정보 모니터링을 제공하는 리니어블의 제품 출시하기 위해, 전 세계의 통신 파트너사들과 협력하고 있습니다.
   <br/><br/>
-  리니어블은 IoTeX의 블록 체인을 사용하여 사용자 데이터 (예 %3A 위치, 건강 정보)의 완전한 개인정보 보호를 보장하고, 
+  리니어블은 IoTeX의 블록 체인을 사용하여 사용자 데이터 (예, 위치, 건강 정보)의 완전한 개인정보 보호를 보장하고, 
   건강 상태를 사전 진단하기 위한 연구 기관과 같은 제 3 자에게 검증 가능한 사용자 데이터를 안전하게 제공할 계획입니다. 
   IoTeX 및 리니어블은 2019 년에 백만 개 이상의 리니어블 기기를 IoTeX 블록 체인에 연결하기를 희망합니다.
 partners.lineable.location: 서울, 대한민국
 partners.lineable.industry: 웨어러블 기기, LoRaWAN 통신
 partners.lineable.media: >-
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://globenewswire.com/news-release/2018/02/08/1336111/0/en/Semtech-s-LoRa-Technology-Help-Saves-Alzheimer-Patients-in-Real-Time.html">
-  리니어블 실버 런칭
+  리니어블 실버 공개
   </a>
   <br/>
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="http://wearablesforgood.com/lineable/">
   UNICEF "Wearables for Good"
   </a>
 partners.lineable.website: <a href="https://www.lineable.net" style="color:black;text-decoration:none" target="_blank"/>www.lineable.net</a>
-partners.lineable.feature-btn: Official Announcement
+partners.lineable.feature-btn: 공식 발표
 partners.lineable.feature-link: https://goo.gl/Y869Nf
 partners.lineable.quote: >-
-  "Lineable's mission of creating a crowdsourced safety network for families has 
-  finally found a perfect complement - IoTeX's blockchain technology."
+  "리니어블은 소중한 가족을 지킬 수 있도록 함께 네트워크를 구축한다는 미션을 함께할 완벽한 동반자를 찾았습니다. 
+  IoTeX와 함께, 리니어블은 사회적 책임을 다할 수 있는 새로운 기회를 만들어 나갈 것입니다."
   <br/><br/>
-  - Seokmin Moon, Lineable CEO
+  - 문석민, 리니어블 CEO
 partners.sidebar.location: 위치
 partners.sidebar.website: 웹싸이트
 partners.sidebar.media: 미디어 / PR
 partners.sidebar.industry: 산업
-partners.join-us: Join Us
+partners.join-us: 함께 해 주세요!
 activity.forum.generate: Generate
 activity.forum.reset: Reset
 activity.forum.error: Please make sure the IoTeX id is correct.
