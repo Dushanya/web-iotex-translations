@@ -433,3 +433,35 @@ partners.sidebar.website: Website
 partners.sidebar.media: Media / PR
 partners.sidebar.industry: Industry
 partners.join-us: Join Us
+partners.lianan.catchphrase: >-
+  Ensuring Blockchain and Smart Contract Security
+partners.lianan.content: >-
+  LianAn Technology is a formal verification company focused on security-critical systems, with experience 
+  in the aerospace, military, and now blockchain industries. LianAn recently launched their 
+  Verification-as-a-Service (VaaS) platform, which offers automated and robust blockchain and smart contract 
+  verification for EOS, Ethereum, and other blockchains.
+  <br/><br/>
+  IoTeX will apply LianAn’s industry leading verification services to IoTeX’s blockchain and smart 
+  contracts, as well as extend their offerings to IoTeX’s development partners. We will also collaborate 
+  on research for blockchain and smart contract security, as well as to advance innovation in privacy-preserving 
+  smart contracts.
+partners.lianan.location: Chengdu, China
+partners.lianan.industry: Security, Formal verification
+partners.lianan.media: >-
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://bitcoinexchangeguide.com/critical-eos-smart-contract-vulnerability-discovered-by-auditing-firm/">
+  EOS Smart Contracts
+  </a>
+  <br/>
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://www.lianantech.com/article/ff80808164b136c10164c5f1279c007d/">
+  Vulnerabilities Analysis
+  </a>
+partners.lianan.website: <a href="https://www.lianantech.com" style="color:black;text-decoration:none" target="_blank"/>www.lianantech.com</a>
+partners.lianan.feature-btn: Official Announcement
+partners.lianan.quote: >-
+  "Security in the decentralized world is of utmost importance. IoTeX and LianAn will combine our technical 
+  research backgrounds and industry experience to drive security innovations for blockchain 
+  and smart contracts."
+  <br/><br/>
+  - Xia Yang, LianAn Technology Co-Founder
