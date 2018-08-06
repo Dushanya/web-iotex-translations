@@ -424,7 +424,7 @@ whitepaper.button.previous: PREVIOUS
 activity.forum.subtitle.keep: Preview
 activity.forum.title.keep: Check out our new IoTeX Forum
 activity.forum.enter.keep: Go
-activity.forum.refer.keep: Type in your friends hash id and generate your refer links to invite up to 10 people!
+activity.forum.refer.keep: Type in your friends IoTeX id and generate your refer links to invite up to 10 people!
 partners.title: IoTeX Partnerships Program
 partners.subtitle-description: >-
   IoTeX and our global ecosystem partners are building the future of IoT on blockchain.
@@ -527,4 +527,4 @@ partners.lianan.quote: >-
   - Xia Yang, LianAn Technology Co-Founder
 activity.forum.generate: Generate
 activity.forum.reset: Reset
-activity.forum.error: Please make sure the hash id is correct.
+activity.forum.error: Please make sure the IoTeX id is correct.
