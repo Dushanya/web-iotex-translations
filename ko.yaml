@@ -442,6 +442,7 @@ partners.lineable.content: >-
   건강 상태를 사전 진단하기 위한 연구 기관과 같은 제 3 자에게 검증 가능한 사용자 데이터를 안전하게 제공할 계획입니다. 
   IoTeX 및 리니어블은 2019 년에 백만 개 이상의 리니어블 기기를 IoTeX 블록 체인에 연결하기를 희망합니다.
 partners.lineable.location: 서울, 대한민국
+partners.lineable.name: Lineable
 partners.lineable.industry: 웨어러블 기기, LoRaWAN 통신
 partners.lineable.media: >-
   <a style="color:black;text-decoration:underline" target="_blank" 
@@ -454,7 +455,7 @@ partners.lineable.media: >-
   UNICEF "Wearables for Good"
   </a>
 partners.lineable.website: <a href="https://www.lineable.net" style="color:black;text-decoration:none" target="_blank"/>www.lineable.net</a>
-partners.lineable.feature-btn: 공식 발표
+partners.feature-btn: 공식 발표
 partners.lineable.feature-link: https://goo.gl/Y869Nf
 partners.lineable.quote: >-
   "리니어블은 소중한 가족을 지킬 수 있도록 함께 네트워크를 구축한다는 미션을 함께할 완벽한 동반자를 찾았습니다. 
@@ -469,3 +470,35 @@ partners.join-us: 함께 해 주세요!
 activity.forum.generate: Generate
 activity.forum.reset: Reset
 activity.forum.error: Please make sure the IoTeX id is correct.
+partners.lianan.catchphrase: >-
+  Ensuring Blockchain and Smart Contract Security
+partners.lianan.content: >-
+  LianAn Technology is a formal verification company focused on security-critical systems, with experience 
+  in the aerospace, military, and now blockchain industries. LianAn recently launched their 
+  Verification-as-a-Service (VaaS) platform, which offers automated and robust blockchain and smart contract 
+  verification for EOS, Ethereum, and other blockchains.
+  <br/><br/>
+  IoTeX will apply LianAn’s industry leading verification services to IoTeX’s blockchain and smart 
+  contracts, as well as extend their offerings to IoTeX’s development partners. We will also collaborate 
+  on research for blockchain and smart contract security, as well as to advance innovation in privacy-preserving 
+  smart contracts.
+partners.lianan.location: Chengdu, China
+partners.lianan.industry: Security, Formal verification
+partners.lianan.media: >-
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://bitcoinexchangeguide.com/critical-eos-smart-contract-vulnerability-discovered-by-auditing-firm/">
+  EOS Smart Contracts
+  </a>
+  <br/>
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://www.lianantech.com/article/ff80808164b136c10164c5f1279c007d/">
+  Vulnerabilities Analysis
+  </a>
+partners.lianan.website: <a href="https://www.lianantech.com" style="color:black;text-decoration:none" target="_blank"/>www.lianantech.com</a>
+partners.lianan.feature-btn: Official Announcement
+partners.lianan.quote: >-
+  "Security in the decentralized world is of utmost importance. IoTeX and LianAn will combine our technical 
+  research backgrounds and industry experience to drive security innovations for blockchain 
+  and smart contracts."
+  <br/><br/>
+  - Xia Yang, LianAn Technology Co-Founder
