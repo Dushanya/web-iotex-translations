@@ -550,10 +550,12 @@ partners.lianan.media: >-
   Vulnerabilities Analysis
   </a>
 partners.lianan.website: <a href="https://www.lianantech.com" style="color:black;text-decoration:none" target="_blank"/>www.lianantech.com</a>
-partners.lianan.feature-btn: Official Announcement
+partners.lianan.feature-link: https://medium.com/iotex/iotex-lianan-technology-partnership-formally-verifying-the-security-of-iotex-872f64dda523
 partners.lianan.quote: >-
   "Security in the decentralized world is of utmost importance. IoTeX and LianAn will combine our technical 
   research backgrounds and industry experience to drive security innovations for blockchain 
   and smart contracts."
   <br/><br/>
   - Xia Yang, LianAn Technology Co-Founder
+error.not-found.oops: Oops
+error.not-found.message: We cannot find the page you are looking for.
