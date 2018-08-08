@@ -246,8 +246,8 @@ profile.eth.eth_new: 4. 输入您新的 ETH 地址
 profile.eth.expiration: 有效期
 profile.eth.invalid: 请输入一个合法的 ETH 地址
 profile.eth.message: '1. 复制该消息:'
-profile.eth.sign_new: 2. 使用您的私钥签名：
-profile.eth.sign_old: 2. 使用您的旧私钥签名：
+profile.eth.sign_new: 2. 使用您的钱包签名：
+profile.eth.sign_old: 2. 使用您的旧钱包签名：
 profile.eth.signature: 3. 填入您的签名
 profile.eth.update: 更新您的 ETH 地址
 profile.eth.updated: 您的 ETH 地址已更新
