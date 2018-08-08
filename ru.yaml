@@ -328,8 +328,8 @@ profile.eth.eth_new: 4. Enter your new ETH address
 profile.eth.expiration: Истекает в
 profile.eth.invalid: 'Пожалуйста, введите правильный ETH адрес.'
 profile.eth.message: '1. Copy the message:'
-profile.eth.sign_new: '2. Sign the message with your private key:'
-profile.eth.sign_old: '2. Sign the message with your OLD private key:'
+profile.eth.sign_new: '2. Sign the message with your wallet:'
+profile.eth.sign_old: '2. Sign the message with your OLD wallet:'
 profile.eth.signature: 3. Fill in the signature
 profile.eth.update: Update your ETH address
 profile.eth.updated: Ваш ETH адрес был обновлен.
