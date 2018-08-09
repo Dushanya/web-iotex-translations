@@ -42,7 +42,7 @@ auth.enter_verification_code: >-
   Inserisci il codice di verifica a 6 cifre inviato al tuo telefono
   <strong>%s</strong>
 auth.enter_verification_code.email: >-
-  Please enter the 6-digit verification code sent to your phone
+  Please enter the 6-digit verification code sent to your email
   <strong>${email}</strong>
 auth.invalid_v_code: Verification code is incorrect
 auth.login: Accedi

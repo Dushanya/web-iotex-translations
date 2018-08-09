@@ -35,7 +35,7 @@ auth.email.subject: 'IoTeX security code is ${code}'
 auth.enter_phone_number: 输入手机号码
 auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
 auth.enter_verification_code.email: >-
-  Please enter the 6-digit verification code sent to your phone
+  Please enter the 6-digit verification code sent to your email
   <strong>${email}</strong>
 auth.invalid_v_code: Verification code is incorrect
 auth.login: 登录
