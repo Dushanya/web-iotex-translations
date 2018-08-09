@@ -39,7 +39,7 @@ auth.email.subject: IoTeX 보안코드는 ${code}'입니다.
 auth.enter_phone_number: 전화번호를 입력하세요
 auth.enter_verification_code: 전송된 6자리 인증번호를 입력하세요 <strong>%s</strong>
 auth.enter_verification_code.email: >-
-  휴대폰에 보낸 6자리 인증코드를 입력해 주세요. <strong>${email}</strong>
+  이메일로 전송된 6자리 인증코드를 입력해 주세요. <strong>${email}</strong>
 auth.invalid_v_code: 올바른 코드가 아닙니다. 
 auth.login: 로그인
 auth.login_with_email: 이메일로 로그인 하세요. 
