@@ -514,12 +514,12 @@ partners.lianan.location: Chengdu, China
 partners.lianan.industry: Security, Formal verification
 partners.lianan.name: LianAn
 partners.lianan.media: >-
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://bitcoinexchangeguide.com/critical-eos-smart-contract-vulnerability-discovered-by-auditing-firm/">
   EOS Smart Contracts
   </a>
   <br/>
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://www.lianantech.com/article/ff80808164b136c10164c5f1279c007d/">
   Vulnerabilities Analysis
   </a>
