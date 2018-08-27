@@ -1,52 +1,52 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-activity.rolldpos.blog: Blog Post
-activity.rolldpos.chance: You have <strong>%d</strong> chance(s) to roll the dice.
-activity.rolldpos.earned: You have earned <strong>%d</strong> points!
-activity.rolldpos.fail.title: Incorrect Answer - Better Luck Next Time
-activity.rolldpos.general.title: Roll-DPos Event
+activity.rolldpos.blog: Пост в блоге
+activity.rolldpos.chance: У вас есть <strong>%d</strong> попытка(ок) бросить кости.
+activity.rolldpos.earned: Вы заработали <strong>%d</strong> очков!
+activity.rolldpos.fail.title: Неправильный ответ - Повезет в следующий раз!
+activity.rolldpos.general.title: Событие Roll-DPos
 activity.rolldpos.information: >-
-  Please strictly follow the <a href="https://goo.gl/hZpc6T"
-  target="_blank">Instruction</a> to be an eligible participant. Otherwise, you
-  will not be able to receive any points. Any signs of cheating detected will
-  result in elimination of all points gained. Happy rolling!
+  Пожалуйста, строго следуйте the <a href="https://goo.gl/hZpc6T"
+  target="_blank">инструкции</a> для того, чтоб стать полноправным участником. В противном случае вы
+  не сможете получить какие-либо очки. Любые признаки обмана могут
+  привести к удалению всех полученых очков. Удачного броска!
 activity.rolldpos.information-note: >-
-  *Note: Every participant has up to 10 chances to roll the dice during this
-  campaign!
-activity.rolldpos.ready: I Am Ready!
+  *Примечание: Каждый участник имеет до 10 попыток бросить кости во время данной
+  кампании!
+activity.rolldpos.ready: Я готов(ва)!
 activity.rolldpos.refer.statement: >-
-  You will get one more chance when your friends finish step 1-5 and roll the
-  dice. Every participant has up to 10 chances to roll the dice during the
-  campaign period.
-activity.rolldpos.refer.title: Refer a friend to get another chance.
+  У вас будет еще одна попытка после того, как ваш друг выполнить шаги 1-5 и бросит
+  кости. Каждый участник имеет до 10 попыток бросить кости на протяжении
+  периода кампании.
+activity.rolldpos.refer.title: Пригласите друга для того, чтоб получить больше попыток.
 activity.rolldpos.rolldpos: Roll-DPoS
-activity.rolldpos.start_the_ball_rolling.keep: START
-activity.rolldpos.submit.disabled: Please select one answer!
-activity.rolldpos.submit.enabled: Submit!
-activity.rolldpos.submit.verify: Verifying!
+activity.rolldpos.start_the_ball_rolling.keep: СТАРТ
+activity.rolldpos.submit.disabled: Пожалуйста, выберите один ответ!
+activity.rolldpos.submit.enabled: Подтвердить!
+activity.rolldpos.submit.verify: Проверка!
 activity.rolldpos.subtitle: Roll-DPoS
-activity.rolldpos.success.title: CONGRATULATIONS!
-activity.rolldpos.title: How Much Do You Know About
+activity.rolldpos.success.title: ПОЗДРАВЛЯЕМ!
+activity.rolldpos.title: Как много вы знаете о
 activity.rolldpos.title.keep: Roll-DPoS Dice Campaign
 activity.rolldpos.video: >-
-  The start button will appear after you watch the video about IoTeX Testnet
-  alpha for a while.  Then answer a question to roll the dice!
-activity.rolldpos.yellow: Yellow Paper
+  Кнопка старта появится после того, как вы посмотрите видео о IoTeX Тестнете
+  Альфа на некоторое время.  Затем ответьте на вопрос, чтоб бросить кости!
+activity.rolldpos.yellow: Желтая Бумага
 auth.email.content: >-
-  You recently accessed your IoTeX account and need to verify yourself to
-  continue. Your code is ${code}.
-auth.email.subject: 'IoTeX security code is ${code}'
+  Вы только что получили доступ к вашему аккаунту IoTeX и должны верифицировать себя для того, чтоб
+  продолжить. Ваш код ${code}.
+auth.email.subject: 'IoTeX защитный код ${code}'
 auth.enter_phone_number: Введите номер телефона
 auth.enter_verification_code: >-
-  Пожалуйста введите 6-значный код подтверждения, который был отправлен на ваш
+  Пожалуйста, введите 6-значный код подтверждения, который был отправлен на ваш
   номер телефона <strong>%s</strong>
 auth.enter_verification_code.email: >-
-  Please enter the 6-digit verification code sent to your email
+  Пожалуйста, введите 6-значный код подтверждения, который был отправлен на ваш email
   <strong>${email}</strong>
-auth.invalid_v_code: Verification code is incorrect
+auth.invalid_v_code: Неверный код подтверждения
 auth.login: Логин
-auth.login_with_email: Login with Email
+auth.login_with_email: Войти через Email
 auth.login_with_mobile: Войти с помощью номера телефона
 auth.login_with_telegram: Войти через Telegram
 auth.next: Далее
@@ -76,7 +76,7 @@ charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: Вы на доске почета IoTeX!
 claim.btn: ПОЛУЧИТЬ ОЧКИ
-common.dice.start: START
+common.dice.start: СТАРТ
 contact.btn: СВЯЗАТЬСЯ С НАМИ
 contact.desc: Эксперты IoTeX готовы ответить на все ваши вопросы support@iotex.io
 contact.title: ОСТАВАЙТЕСЬ НА СВЯЗИ
@@ -324,14 +324,14 @@ home.zhijie.desc.keep: >-
 home.zhijie.linkedin.keep: 'https://www.linkedin.com/in/zjshen/'
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Блокчейн инженер
-profile.eth.eth_new: 4. Enter your new ETH address
+profile.eth.eth_new: 4. Введите ваш новый ETH адрес
 profile.eth.expiration: Истекает в
 profile.eth.invalid: 'Пожалуйста, введите правильный ETH адрес.'
-profile.eth.message: '1. Copy the message:'
-profile.eth.sign_new: '2. Sign the message with your wallet:'
-profile.eth.sign_old: '2. Sign the message with your OLD wallet:'
-profile.eth.signature: 3. Fill in the signature
-profile.eth.update: Update your ETH address
+profile.eth.message: '1. Копировать сообщение:'
+profile.eth.sign_new: '2. Вставьте в сообщение ваш кошелек:'
+profile.eth.sign_old: '2. Вставьте в сообщение ваш СТАРЫЙ кошелек:'
+profile.eth.signature: 3. Заполните подпись
+profile.eth.update: Обновите ваш ETH адрес
 profile.eth.updated: Ваш ETH адрес был обновлен.
 profile.eth.verified: Ваш ETH адрес был подтвержден.
 profile.eth.verify: Подтвердите ваш ETH адрес
@@ -343,8 +343,8 @@ profile.info.eth_address: ETH Адрес
 profile.info.phone_number: Телефон
 profile.info.telegram_account_id: Telegram
 profile.message.back: НАЗАД
-profile.message.change: CHANGE
-profile.message.close: Close
+profile.message.change: ИЗМЕНИТЬ
+profile.message.close: Закрыть
 profile.message.copied: Скопировать код.
 profile.message.copy: Скопировать
 profile.message.generate: Генерировать
@@ -356,8 +356,8 @@ profile.message.not_a_number: 'Пожалуйста, введите правил
 profile.message.not_enough_points: У вас недостаточно очков.
 profile.message.processing: Загрузка
 profile.message.refund: Возврат
-profile.message.result: Result
-profile.message.set: SET
+profile.message.result: Результат
+profile.message.set: УСТАНОВИТЬ
 profile.message.sign: SIGN
 profile.message.submit: ОТПРАВИТЬ
 profile.message.verify: ПОДТВЕРДИТЬ
@@ -385,7 +385,7 @@ profile.send.button: СГЕНЕРИРОВАТЬ КОД
 profile.send.code: Код
 profile.send.end: Время завершения
 profile.send.left: Осталось
-profile.send.memo: Memo (optional)
+profile.send.memo: Напоминание (optional)
 profile.send.menu: ОТПРАВИТЬ
 profile.send.prompt: ВВЕДИТЕ СУММУ ОЧКОВ ДЛЯ ОТПРАВКИ
 profile.send.start: Время начала
@@ -394,22 +394,22 @@ profile.send.total: Всего
 profile.wallet.exchange: Exchanges
 profile.wallet.rank: Рейтинг
 profile.wallet.title: Ваши IoTeX токены
-rate_limit: Too many requests
+rate_limit: Слишком много запросов
 stonevan.twitter: >-
   Я только что получил 100 очков от IoTeX в подарок, в честь выпуска первого
   кода - привью Тест-нета. @iotex_io Присоединяйтесь и получайте очки!
 subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
 subscribe.title: Подпишитесь на нашу рассылку
-testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title.keep: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
+testnet-alpha.home-title.keep: Тест-нет Альфа (Strive) будет открытим исходным кодом
+testnet-alpha.released-event-title.keep: Наш Тест-нет Альфа выпущен!
+testnet-alpha.released-title.keep: Тест-нет Альфа выпущен на
 testnet-preview.home-title.keep: Привью Тест-нета (StoneVan) состоялся
 testnet-preview.released-event-title.keep: Наш Тест-нет Привью уже вышел!
 testnet-preview.released-title.keep: Привью Тест-нета состоялся
-testnet.code: CODE
-testnet.demo: DEMO
-testnet.detail: DETAIL
+testnet.code: КОД
+testnet.demo: ДЕМО
+testnet.detail: ДЕТАЛЬНО
 topbar.about: ОБ
 topbar.account: АККАУНТ
 topbar.announcements: АНОНСЫ
@@ -425,76 +425,76 @@ topbar.research: ИССЛЕДОВАНИЯ
 topbar.resource: РЕСУРСЫ
 topbar.roll_dpos: ROLL-DPOS
 topbar.video: ВИДЕО
-topbar.white-paper: WHITE PAPER
-topbar.partnership: PARTNERSHIP
+topbar.white-paper: БЕЛАЯ БУМАГА
+topbar.partnership: ПАРТНЕРСТВО
 whitepaper.button.next: ВПЕРЕД
 whitepaper.button.previous: НАЗАД
-activity.forum.subtitle.keep: Preview
-activity.forum.title.keep: Check out our new IoTeX Forum
-activity.forum.enter.keep: Go
-activity.forum.refer.keep: Type in your friends IoTeX id and generate your refer links to invite up to 10 people!
-activity.telegram-korean.claim-candy.title: Earn 200 Candy (IOTX) As A Thank-You Gift!
-activity.telegram-korean.claim-candy.button: Get My Candy
-activity.telegram-korean.claim-candy.error.stage: "Error: Please make sure you have verified your phone number and joined our Korean telegram group."
-activity.telegram-korean.claim-candy.error.add: "Error: error in adding points"
-activity.telegram-korean.error.update: "Error: error in updating stage"
-activity.telegram-korean.join-group.title: Join Our Korean Telegram Group to Claim Candy!
-activity.telegram-korean.join-group.join: Join
-activity.telegram-korean.join-group.confirm: I'm in the group!
-activity.telegram-korean.recaptcha.verify: Enter
-activity.telegram-korean.description: An Auto-Scalable and Privacy-Centric Blockchain Infrastructure for the IoT
+activity.forum.subtitle.keep: Превью
+activity.forum.title.keep: Посетите наш новый форум IoTeX
+activity.forum.enter.keep: Перейти
+activity.forum.refer.keep: Введите IoTeX id ваших друзей и сгенерируйте вашу реферальную ссылку для того, чтоб пригласить до 10 человек!
+activity.telegram-korean.claim-candy.title: Заработайте 200 Candy (IOTX) как подарок в благодарность!
+activity.telegram-korean.claim-candy.button: Получить мои Candy
+activity.telegram-korean.claim-candy.error.stage: "Ошибка: Пожалуйста, убедитесь в том, что вы верифицировали ваш номер телефона и присоединились к нашей корейской группе в Telegram."
+activity.telegram-korean.claim-candy.error.add: "Ошибка: ошибка при добавлении очков"
+activity.telegram-korean.error.update: "Ошибка: ошибка в стадии обновления"
+activity.telegram-korean.join-group.title: Присоединяйтесь к нашей корейской группе в Telegram для получения Candy!
+activity.telegram-korean.join-group.join: Присоединиться
+activity.telegram-korean.join-group.confirm: Я в группе!
+activity.telegram-korean.recaptcha.verify: Ввести
+activity.telegram-korean.description: Автоматически масштабируемая и конфиденциальная инфраструктура Blockchain для ИВ
 activity.telegram-korean.title: Korean Telegram Group Airdrop Event
-activity.telegram-korean.referral: "Referral link:"
-activity.telegram-korean.claimed: You have claimed your candy. Thank you for participating!
-activity.telegram-korean.verify-telegram.error: "Error: Please make sure you have logged in using telegram and joined our Korean telegram group."
-activity.telegram-korean.twilio.title: Verify your phone number
-activity.telegram-korean.twilio.button: Verify
-partners.title: IoTeX Partnerships Program
+activity.telegram-korean.referral: "Реферальная ссылка:"
+activity.telegram-korean.claimed: Вы запросили ваши candy. Благодарим за участие!
+activity.telegram-korean.verify-telegram.error: "Ошибка: Пожалуйста, убедитесь, что вы вошли в систему, используя Еelegram и присоединилсь к корейской группу в Telegram."
+activity.telegram-korean.twilio.title: Верифицируйте ваш номер телефона
+activity.telegram-korean.twilio.button: Верифицировать
+partners.title: IoTeX Партнерская программа
 partners.subtitle-description: >-
-  IoTeX and our global ecosystem partners are building the future of IoT on blockchain.
-partners.learn-more: Learn More
-partners.our-partners: Our Partners
-partners.partner-with: Partnering With IoTeX
-partners.why-partner: Development Partners
+  IoTeX и наши глобальные партнеры по экосистеме строят будущее ИВ на Blockchain.
+partners.learn-more: Подробнее
+partners.our-partners: Наши партнеры
+partners.partner-with: Партнерство с IoTeX
+partners.why-partner: Партнеры по разработке
 partners.why.desc: >-
-  While any developer can leverage IoTeX’s open source infrastructure 
-  to build DApps, our official development partners will benefit from hands-on 
-  advisory via direct access to IoTeX’s product and technical teams. 
-  Development partners will be prioritized to beta test new IoTeX features 
-  and will receive access to IoTeX’s network of blockchain / IoT contacts. 
-  Other resources, such as funding for proofs of concept, guidance on governance 
-  and cryptoeconomics, and technical consulting, will be provided on a discretionary 
-  basis. 
-partners.how: Ecosystem Partners
+  В то время как любой разработчик может использовать инфраструктуру открытого исходного кода IoTeX 
+  для того, чтоб построить DApps, наши официальные партнеры по разработке выиграют от практического 
+  консалтинга через прямой доступ к продуктам и технической команды IoTeX. 
+  Партнеры по разработке получат приоритет к бета тестированию новых функций IoTeX 
+  и получат доступ к сети IoTeX сети на Blockchain / контактам ИВ. 
+  Другие ресурсы, такие как финансирование для доказательств концепции, руководство по управлению 
+  и криптоэкономика, и технический консалтинг, будут предоставляться на дискреционной 
+  основе. 
+partners.how: Партнеры по экосистеме
 partners.how.desc: >-
-  Our ecosystem partners will benefit from working directly with the IoTeX team, 
-  our development partners, and other ecosystem partners to align their sourcing, 
-  fostering, and distribution-related capabilities with blockchain technology. 
-  We will leverage the existing reach and influence of our ecosystem partners 
-  to bring new opportunities to IoTeX and our development partners.
-partners.join-iotex: Apply To Be An IoTeX Partner
-partners.apply-button: Apply
+  Нашим партнерам по экосистеме выгодно работать непосредственно с командой IoTeX, 
+  нашими партнерами по разработке, и другими партнерами по экосистеме  для согласования их источников, 
+  содействия, и возможностей, связанных с распределением с технологией blockchain. 
+  Мы будем использовать существующий охват и влияние наших партнеров по экосистеме 
+  чтоб предоставить новые возможности для IoTeX и наших партнеров по развитию.
+partners.join-iotex: Подать заявку для того, чтоб стать партнером IoTeX
+partners.apply-button: Подать заявку
 partners.apply-desc: >-
-  Interested in becoming an official development partner or ecosystem partner 
-  of IoTeX? We look forward to hearing from you - apply via the link below!
+  Заинтересованы стать официальным партнером по разработке или партнером по экосистеме
+   IoTeX? Мы с нетерпением ждем от вас ответа - воспользуйтесь ссылкой ниже!
 partners.partner-with.more-info: >-
-  For complete details on the benefits and expectations of being a development 
-  partner or ecosystem partner, please see our official 
+  Для получения полной информации о преимуществах и ожиданиях быть партнером
+  по разработке или партнером по экосистеме, пожалуйста, смотрите наш официальный 
   <a style="color:white" href="https://medium.com/@iotex/iotex-official-partnership-program-launch-eb9bca7050eb" target="_blank"/>
-  IoTeX Partnerships Program</a> blog post.
+  Партнерская программа IoTeX</a> пост в блоге.
 partners.lineable.catchphrase: >-
   Keeping Families Safe With Blockchain
 partners.lineable.content: >-
-  Lineable is a hardware company that builds smart wearable devices to <strong>keep families safe and 
-  connected</strong>. They partner with telecom giants around the world to connect their products, 
-  which offer SOS alerts, location tracking / geofencing, and health monitoring.
+  Lineable — это аппаратная компания, ориентированная на создание умных носимых устройств для <strong>для обеспечения безопасности семей и 
+  подключений</strong>. Они сотрудничают с гигантами телекоммуникаций во всем мире для подключения своих продуктов,
+  которые предлагают оповещения SOS, отслеживание местоположения / геофенсинг, и мониторинг состояния здоровья.
   <br/><br/>
-  Lineable will use IoTeX’s blockchain to ensure full privacy of user data (e.g., geolocation, health) 
-  and to securely share verifiable user data with third parties, such as research 
-  institutions to pre-diagnose medical conditions. IoTeX and Lineable hope to connect 1,000,000+ Lineable 
-  devices to the IoTeX blockchain in 2019.
-partners.lineable.location: Seoul, Korea
-partners.lineable.industry: Wearable devices, LoRaWAN connectivity
+  Lineable будет использовать Blockchain IoTeX для обеспечения полной конфиденциальности пользовательских данных (например, геолокация, здоровье) 
+  и надежно делиться достоверными пользовательскими данными с третьими лицами, такими как научно-исследовательские 
+  учреждения для предварительной диагностики заболеваний. IoTeX и Lineable надеятся подключить 1,000,000+ устройств 
+  Lineable к блокчейну IoTeX в 2019.
+partners.lineable.location: Сеул, Корея
+partners.lineable.industry: Носимые устройства, Подключение LoRaWAN
 partners.lineable.name: Lineable
 partners.lineable.media: >-
   <a style="color:black;text-decoration:underline" target="_blank" 
@@ -507,53 +507,53 @@ partners.lineable.media: >-
   UNICEF "Wearables for Good"
   </a>
 partners.lineable.website: <a href="https://www.lineable.net" style="color:black;text-decoration:none" target="_blank"/>www.lineable.net</a>
-partners.feature-btn: Official Announcement
+partners.feature-btn: Официальное объявление
 partners.lineable.feature-link: https://medium.com/@iotex/iotex-lineable-partnership-expanding-the-reach-and-impact-of-wearables-with-blockchain-7ef1e253700d
 partners.lineable.quote: >-
-  "Lineable's mission of creating a crowdsourced safety network for families has 
-  finally found a perfect complement - IoTeX's blockchain technology."
+  "Задача Lineable по созданию безопасной сети для семей с помощью краудсорсинга, 
+  наконец-то нашла идеальное дополнение — технологию блокчейн от IoTeX."
   <br/><br/>
   - Seokmin Moon, Lineable CEO
-partners.sidebar.location: Location
-partners.sidebar.website: Website
-partners.sidebar.media: Media / PR
-partners.sidebar.industry: Industry
-partners.join-us: Join Us
-activity.forum.generate: Generate
-activity.forum.reset: Reset
-activity.forum.error: Please make sure the IoTeX id is correct.
+partners.sidebar.location: Место нахождения
+partners.sidebar.website: Веб-сайт
+partners.sidebar.media: Медиа / PR
+partners.sidebar.industry: Отрасль
+partners.join-us: Присоединяйтесь к нам
+activity.forum.generate: Генерировать
+activity.forum.reset: Сбросить
+activity.forum.error: Пожалуйста, убедитесь, что IoTeX id правильный.
 partners.lianan.catchphrase: >-
-  Ensuring Blockchain and Smart Contract Security
+  Обеспечение безопасности Blockchain и Smart Contract
 partners.lianan.name: LianAn
 partners.lianan.content: >-
-  LianAn Technology is a formal verification company focused on security-critical systems, with experience 
-  in the aerospace, military, and now blockchain industries. LianAn recently launched their 
-  Verification-as-a-Service (VaaS) platform, which offers automated and robust blockchain and smart contract 
-  verification for EOS, Ethereum, and other blockchains.
+  LianAn Technology является формальной компанией верификации, специализирующаяся на безопасности систем, с опытом работы
+  в аэрокосмической, военной, и сейчас в блокчейн идустриях. Недавно LianAn запустили свою 
+  платформу “Верификация-как-Сервис”, которая предлагает автоматизированные и надежные проверки блокчейнов и смарт-контрактов 
+  для EOS, Ethereum, и других языков программирования блокчейнов.
   <br/><br/>
-  IoTeX will apply LianAn’s industry leading verification services to IoTeX’s blockchain and smart 
-  contracts, as well as extend their offerings to IoTeX’s development partners. We will also collaborate 
-  on research for blockchain and smart contract security, as well as to advance innovation in privacy-preserving 
-  smart contracts.
-partners.lianan.location: Chengdu, China
-partners.lianan.industry: Security, Formal verification
+  IoTeX будет применять ведущие в отрасли службы проверки LianAn к блокчейну и смарт-контрактам IoTeX, 
+ а также распространять свои предложения партнерам по разработкам IoTeX. Мы также будем сотрудничать 
+  в исследованиях для безопасности блокчейна и смарт-контрактов, а так же для продвижения инноваций в конфиденциальных 
+  смарт-контрактах.
+partners.lianan.location: Ченду, Китай
+partners.lianan.industry: Безопасность, Формальная верификация
 partners.lianan.media: >-
   <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://bitcoinexchangeguide.com/critical-eos-smart-contract-vulnerability-discovered-by-auditing-firm/">
-  EOS Smart Contracts
+  EOS Смарт-контракты
   </a>
   <br/>
   <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://www.lianantech.com/article/ff80808164b136c10164c5f1279c007d/">
-  Vulnerabilities Analysis
+  Анализ уязвимостей
   </a>
 partners.lianan.website: <a href="https://www.lianantech.com" style="color:black;text-decoration:none" target="_blank"/>www.lianantech.com</a>
 partners.lianan.feature-link: https://medium.com/iotex/iotex-lianan-technology-partnership-formally-verifying-the-security-of-iotex-872f64dda523
 partners.lianan.quote: >-
-  "Security in the decentralized world is of utmost importance. IoTeX and LianAn will combine our technical 
-  research backgrounds and industry experience to drive security innovations for blockchain 
-  and smart contracts."
+  "Безопасность в децентрализованном мире имеет первостепенное значение. IoTeX и LianAn объединят наш опыт в технических  
+  исследованиях и отраслевой опыт, для внедрения инноваций в области безопасности блокчейна 
+  и смарт-контрактов."
   <br/><br/>
   - Xia Yang, LianAn Technology Co-Founder
-error.not-found.oops: Oops
-error.not-found.message: We cannot find the page you are looking for.
+error.not-found.oops: Уупс
+error.not-found.message: Мы не можем найти страницу, которую вы ищите.
